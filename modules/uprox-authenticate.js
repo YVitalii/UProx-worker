@@ -89,7 +89,7 @@ async function eventGetList(options) {
   */
   // ----------- настройки логгера локальные --------------
   let logN=logName+"eventGetList(userSID:"+userSID+"):";
-  let trace=1;   trace = (gTrace!=0) ? gTrace : trace;
+  let trace=0;   trace = (gTrace!=0) ? gTrace : trace;
   trace ? log("i",logN,"Started") : null;
   // ---------- логер -------------------------------------
   // if (! options.limit) { options.limit = 100;}
@@ -131,7 +131,7 @@ async function eventGetList(options) {
 function parseEventList( list ) {
   // ----------- настройки логгера локальные --------------
   let logN=logName+"parseEventList:";
-  let trace=1;   trace = (gTrace!=0) ? gTrace : trace;
+  let trace=0;   trace = (gTrace!=0) ? gTrace : trace;
   trace ? log("i",logN,"Started") : null;
   // ---------- логер -------------------------------------
 
@@ -163,7 +163,7 @@ function parseEventList( list ) {
     await authenticate(config.user,config.pwdHash);
     let events = await eventGetList({});
     console.log("---------- events ---------------");
-    console.dir(events);
+    //console.dir(events);
     let records = parseEventList(events);
     console.log("---------- records ---------------");
     console.dir(records);
