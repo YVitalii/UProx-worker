@@ -1,0 +1,74 @@
+{
+    "Event": [
+        {
+            "ModificationStatus": 0,
+            "Token": 8037,
+            "AdditionalFields": [],
+            "CardCode": "3800E49C36",
+            "Department": {
+                "Token": 1618,
+                "Name": "Офіс"
+            },
+            "Device": {
+                "Token": 1363,
+                "Name": "Прохідна"
+            },
+            "EventFilterPassed": true,
+            "FaceMaskDetected": false,
+            "IconToken": 2423,
+            "Issued": "/Date(1624627982000)/",
+            "Message": {
+                "Token": 219,
+                "Name": "Вихід здійснено",
+                "AccessGranted": true,
+                "Code": 99,
+                "Color": 0
+            },
+            "PhotoToken": 2422,
+            "PhotoverificationFiltersPassed": [
+                true,
+                true,
+                true,
+                true
+            ],
+            "Sender": {
+                "Token": 1385,
+                "Name": "1 - вихід"
+            },
+            "Temperature": 0,
+            "User": {
+                "Token": 2415,
+                "Name": "Зінченко Володимир",
+                "AdditionalFields": [],
+                "EmployeeNumber": "6",
+                "Post": "Інженер"
+            },
+            "Date": "2021-06-25T13:33:02.000Z"
+        }
+    ],
+    "EventColumns": [
+        "Col_DateTime",
+        "Col_Employee",
+        "Col_Place",
+        "Col_Event",
+        "Col_Identifier",
+        "Col_Department",
+        "Col_Post",
+        "Col_EmployeeNumber"
+    ],
+    "Language": "",
+    "NextToken": 8036,
+    "PhotoverificationColumnCount": 1,
+    "PhotoverificationColumns": [
+        "Col_DateTime",
+        "Col_Employee",
+        "Col_Place",
+        "Col_Event",
+        "Col_Identifier",
+        "Col_Department",
+        "Col_Post",
+        "Col_EmployeeNumber"
+    ],
+    "PhotoverificationRowCount": 1,
+    "UserSID": "37856099398634189"
+}
