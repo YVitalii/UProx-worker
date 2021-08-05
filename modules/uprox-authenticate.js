@@ -3,6 +3,8 @@ const md5 = require('md5');
 const config = require('../uProx-config.js');
 const axios = require('axios');
 const sygnalR= require ("@microsoft/signalr");
+const input=config.inputDirection;
+const exit=config.outputDirection;
 // const connection= new signalR.HubConnectionBuilder()
 //                                 .withUrl(config.url+config.sygnalR)
 //                                 .build(); // подключение к sygnalR
@@ -81,19 +83,20 @@ async function eventGetList(options) {
   /*
     "subscriptionEnabled":boolean , Признак необходимости включения подписки на события, которые будут добавлены в базу данных после выполнения операции
                                     EventGetList и дата регистрации которых будет не раньше даты IssuedFrom
-    "limit":Number, Максимальное количество событий в ответе на запрос
-    "startToken":Number,  Числовой идентификатор первого события в запросе
-    "employees":array of [Employees],
-    "issuedFrom": object Date(), Дата и время самого раннего затребованного события
-    "issuedTo": object Date()? Дата и время последнего затребованного события
+    "Limit":Number, Максимальное количество событий в ответе на запрос
+    "StartToken":Number,  Числовой идентификатор первого события в запросе
+    "Employees":array of [Employees],
+    "IssuedFrom": object Date(), Дата и время самого раннего затребованного события
+    "IssuedTo": object Date()? Дата и время последнего затребованного события
   */
   // ----------- настройки логгера локальные --------------
   let logN=logName+"eventGetList(userSID:"+userSID+"):";
-  let trace=0;   trace = (gTrace!=0) ? gTrace : trace;
-  trace ? log("i",logN,"Started") : null;
+  let trace=1;   trace = (gTrace!=0) ? gTrace : trace;
+  trace ? log("i",logN,"Started. options=") : null;
+  trace ? console.dir(options) : null;
   // ---------- логер -------------------------------------
   // if (! options.limit) { options.limit = 100;}
-  if (! options) { var options={} };
+  //if (! options) { var options={} };
   options.UserSID=userSID;
 
   options.Limit = ( options.Limit ) ? options.Limit : 100;
@@ -101,7 +104,7 @@ async function eventGetList(options) {
   options.StartToken = ( options.StartToken ) ? options.StartToken : 0;
 
   options.Employees = ( options.Employees ) ? options.Employees : [];
-
+  trace ? log("i",logN,((options.IssuedFrom) ? ("options.IssuedFrom="+dateStringify(options.IssuedFrom)):"options.IssuedFrom=today" )) : null;
   options.IssuedFrom = ( options.IssuedFrom ) ? dateStringify(options.IssuedFrom) : dateStringify(new Date()); // если не указана дата - то берем сегодня с 00:00
 
 
@@ -127,6 +130,13 @@ async function eventGetList(options) {
     return Promise.reject(e);
   }
 } // function logout()
+function parseDirection(direct){
+  // преобразует код устройства в направление
+  if (direct == config.inputDirection ) {return 1}; // вход
+  if (direct == config.outputDirection ) {return 0}; //выход
+  log("e","parseDirection(",direct,") - ошибка определения направления Вход/Выход");
+}
+
 
 function parseEventList( list ) {
   // ----------- настройки логгера локальные --------------
@@ -140,17 +150,11 @@ function parseEventList( list ) {
     let item=list[i];
     if (! item.User.Token) { continue }
     let record ={
-      user:{
-        card:item.CardCode,
-        name:item.User.Name,
-        token:item.User.Token,
-        post:item.User.Post,
-      },
-      door:{
-        token:item.Sender.Token,
-        name:item.Sender.Name
-      },
-      date:new Date(parseInt(item.Issued.slice(6,-2)))//))  new Date(parseInt(
+      token:item.Token, //адрес события в UproxToken
+      date:new Date(parseInt(item.Issued.slice(6,-2))),// item.Issued="/Date(1628052431000)/"
+      userCard:item.CardCode, //карта пользователя
+      direction: item.Sender.Token, // parseDirection(направление прохода вход/выход
+      userName:item.User.Name, // имя пользователя
     }
     trace ? log("i",logN,"Record"+i+"=",record) : null;
     result.push(record);
@@ -161,7 +165,7 @@ function parseEventList( list ) {
 (async () => {
   try {
     await authenticate(config.user,config.pwdHash);
-    let events = await eventGetList({});
+    let events = await eventGetList({IssuedFrom:new Date("2021-08-03T00:00:00Z")});
     console.log("---------- events ---------------");
     //console.dir(events);
     let records = parseEventList(events);

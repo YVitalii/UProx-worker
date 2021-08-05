@@ -1,0 +1,97 @@
+users= {};
+users[userCard]={
+	userName:
+	, 
+	, lastEvent :{
+					 date:
+					,type:				
+				 }
+}
+Обработанный ответ:
+events=[ 
+	{
+		token:  // = Token; адрес события в UproxToken
+		date: // = Issued время события
+		userCard: //=CardCode карта пользователя
+		direction: // = if Sender.Token=1384 то тип 1; if Sender.Token=1385 то тип 0 - выход
+		userName: //=User.Name имя пользователя
+	},
+	....
+];
+-----------------------------------
+Ответ сервера:
+ events.data={
+		 Event: 
+			[... {
+			  "ModificationStatus": 0,
+			  "Token": 10455,
+			  "AdditionalFields": [],
+			  "CardCode": "32004894CC",
+			  "Department": {
+				"Token": 2521,
+				"Name": "Цех"
+			  },
+			  "Device": {
+				"Token": 1363,
+				"Name": "Прохідна"
+			  },
+			  "EventFilterPassed": true,
+			  "FaceMaskDetected": false,
+			  "IconToken": 2601,
+			  "Issued": "/Date(1628052431000)/",
+			  "Message": {
+				"Token": 218,
+				"Name": "Вхід здійснено",
+				"AccessGranted": true,
+				"Code": 98,
+				"Color": 0
+			  },
+			  "PhotoToken": 2600,
+			  "PhotoverificationFiltersPassed": [
+				true,
+				true,
+				true,
+				true
+			  ],
+			  "Sender": {
+				"Token": 1384, 
+				"Name": "1 - вхід"
+			  },
+			  "Temperature": 0,
+			  "User": {
+				"Token": 2596,
+				"Name": "Головко Олександр",
+				"AdditionalFields": [],
+				"EmployeeNumber": "13",
+				"Post": "Електрик"
+			  }
+			},...
+		],
+		"EventColumns": [
+			"Col_DateTime",
+			"Col_Employee",
+			"Col_Place",
+			"Col_Event",
+			"Col_Identifier",
+			"Col_Department",
+			"Col_Post",
+			"Col_EmployeeNumber"
+		  ],
+		  "Language": "",
+		  "NextToken": 10523,
+		  "PhotoverificationColumnCount": 1,
+		  "PhotoverificationColumns": [
+			"Col_DateTime",
+			"Col_Employee",
+			"Col_Place",
+			"Col_Event",
+			"Col_Identifier",
+			"Col_Department",
+			"Col_Post",
+			"Col_EmployeeNumber"
+		  ],
+		  "PhotoverificationRowCount": 1,
+		  "UserSID": "22386711703641666"
+		}
+
+

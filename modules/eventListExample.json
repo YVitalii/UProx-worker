@@ -1,1 +1,3065 @@
-{"Event":[{"ModificationStatus":0,"Token":10454,"AdditionalFields":[],"CardCode":"32004894CC","Department":{"Token":2521,"Name":"Цех"},"Device":{"Token":1363,"Name":"Прохідна"},"EventFilterPassed":true,"FaceMaskDetected":false,"IconToken":2601,"Issued":"/Date(1628052422000)/","Message":{"Token":216,"Name":"Вхід дозволений","AccessGranted":true,"Code":8,"Color":255},"PhotoToken":2600,"PhotoverificationFiltersPassed":[true,true,true,true],"Sender":{"Token":1384,"Name":"1 - вхід"},"Temperature":0,"User":{"Token":2596,"Name":"Головко Олександр","AdditionalFields":[],"EmployeeNumber":"13","Post":"Електрик"}},{"ModificationStatus":0,"Token":10455,"AdditionalFields":[],"CardCode":"32004894CC","Department":{"Token":2521,"Name":"Цех"},"Device":{"Token":1363,"Name":"Прохідна"},"EventFilterPassed":true,"FaceMaskDetected":false,"IconToken":2601,"Issued":"/Date(1628052431000)/","Message":{"Token":218,"Name":"Вхід здійснено","AccessGranted":true,"Code":98,"Color":0},"PhotoToken":2600,"PhotoverificationFiltersPassed":[true,true,true,true],"Sender":{"Token":1384,"Name":"1 - вхід"},"Temperature":0,"User":{"Token":2596,"Name":"Головко Олександр","AdditionalFields":[],"EmployeeNumber":"13","Post":"Електрик"}},{"ModificationStatus":0,"Token":10456,"AdditionalFields":[],"CardCode":"32004894CC","Department":{"Token":2521,"Name":"Цех"},"Device":{"Token":1363,"Name":"Прохідна"},"EventFilterPassed":true,"FaceMaskDetected":false,"IconToken":2601,"Issued":"/Date(1628053335000)/","Message":{"Token":217,"Name":"Вихід дозволений","AccessGranted":true,"Code":9,"Color":255},"PhotoToken":2600,"PhotoverificationFiltersPassed":[true,true,true,true],"Sender":{"Token":1385,"Name":"1 - вихід"},"Temperature":0,"User":{"Token":2596,"Name":"Головко Олександр","AdditionalFields":[],"EmployeeNumber":"13","Post":"Електрик"}},{"ModificationStatus":0,"Token":10457,"AdditionalFields":[],"CardCode":"32004894CC","Department":{"Token":2521,"Name":"Цех"},"Device":{"Token":1363,"Name":"Прохідна"},"EventFilterPassed":true,"FaceMaskDetected":false,"IconToken":2601,"Issued":"/Date(1628053344000)/","Message":{"Token":219,"Name":"Вихід здійснено","AccessGranted":true,"Code":99,"Color":0},"PhotoToken":2600,"PhotoverificationFiltersPassed":[true,true,true,true],"Sender":{"Token":1385,"Name":"1 - вихід"},"Temperature":0,"User":{"Token":2596,"Name":"Головко Олександр","AdditionalFields":[],"EmployeeNumber":"13","Post":"Електрик"}},{"ModificationStatus":0,"Token":10458,"AdditionalFields":[],"CardCode":"32004894CC","Department":{"Token":2521,"Name":"Цех"},"Device":{"Token":1363,"Name":"Прохідна"},"EventFilterPassed":true,"FaceMaskDetected":false,"IconToken":2601,"Issued":"/Date(1628053366000)/","Message":{"Token":216,"Name":"Вхід дозволений","AccessGranted":true,"Code":8,"Color":255},"PhotoToken":2600,"PhotoverificationFiltersPassed":[true,true,true,true],"Sender":{"Token":1384,"Name":"1 - вхід"},"Temperature":0,"User":{"Token":2596,"Name":"Головко Олександр","AdditionalFields":[],"EmployeeNumber":"13","Post":"Електрик"}},{"ModificationStatus":0,"Token":10459,"AdditionalFields":[],"CardCode":"32004894CC","Department":{"Token":2521,"Name":"Цех"},"Device":{"Token":1363,"Name":"Прохідна"},"EventFilterPassed":true,"FaceMaskDetected":false,"IconToken":2601,"Issued":"/Date(1628053375000)/","Message":{"Token":218,"Name":"Вхід здійснено","AccessGranted":true,"Code":98,"Color":0},"PhotoToken":2600,"PhotoverificationFiltersPassed":[true,true,true,true],"Sender":{"Token":1384,"Name":"1 - вхід"},"Temperature":0,"User":{"Token":2596,"Name":"Головко Олександр","AdditionalFields":[],"EmployeeNumber":"13","Post":"Електрик"}},{"ModificationStatus":0,"Token":10460,"AdditionalFields":[],"CardCode":"3200204A2B","Department":{"Token":2521,"Name":"Цех"},"Device":{"Token":1363,"Name":"Прохідна"},"EventFilterPassed":true,"FaceMaskDetected":false,"IconToken":2573,"Issued":"/Date(1628053698000)/","Message":{"Token":216,"Name":"Вхід дозволений","AccessGranted":true,"Code":8,"Color":255},"PhotoToken":2572,"PhotoverificationFiltersPassed":[true,true,true,true],"Sender":{"Token":1384,"Name":"1 - вхід"},"Temperature":0,"User":{"Token":2568,"Name":"Лонський Олег","AdditionalFields":[],"EmployeeNumber":"18","Post":"Муляр"}},{"ModificationStatus":0,"Token":10461,"AdditionalFields":[],"CardCode":"3200204A2B","Department":{"Token":2521,"Name":"Цех"},"Device":{"Token":1363,"Name":"Прохідна"},"EventFilterPassed":true,"FaceMaskDetected":false,"IconToken":2573,"Issued":"/Date(1628053707000)/","Message":{"Token":218,"Name":"Вхід здійснено","AccessGranted":true,"Code":98,"Color":0},"PhotoToken":2572,"PhotoverificationFiltersPassed":[true,true,true,true],"Sender":{"Token":1384,"Name":"1 - вхід"},"Temperature":0,"User":{"Token":2568,"Name":"Лонський Олег","AdditionalFields":[],"EmployeeNumber":"18","Post":"Муляр"}},{"ModificationStatus":0,"Token":10462,"AdditionalFields":[],"CardCode":"33008ADF00","Department":{"Token":2521,"Name":"Цех"},"Device":{"Token":1363,"Name":"Прохідна"},"EventFilterPassed":true,"FaceMaskDetected":false,"IconToken":2632,"Issued":"/Date(1628054002000)/","Message":{"Token":216,"Name":"Вхід дозволений","AccessGranted":true,"Code":8,"Color":255},"PhotoToken":2631,"PhotoverificationFiltersPassed":[true,true,true,true],"Sender":{"Token":1384,"Name":"1 - вхід"},"Temperature":0,"User":{"Token":2627,"Name":"Максименко Володимир","AdditionalFields":[],"EmployeeNumber":"16","Post":"Водій"}},{"ModificationStatus":0,"Token":10463,"AdditionalFields":[],"CardCode":"3200485719","Department":{"Token":2521,"Name":"Цех"},"Device":{"Token":1363,"Name":"Прохідна"},"EventFilterPassed":true,"FaceMaskDetected":false,"IconToken":2618,"Issued":"/Date(1628054007000)/","Message":{"Token":216,"Name":"Вхід дозволений","AccessGranted":true,"Code":8,"Color":255},"PhotoToken":2617,"PhotoverificationFiltersPassed":[true,true,true,true],"Sender":{"Token":1384,"Name":"1 - вхід"},"Temperature":0,"User":{"Token":2613,"Name":"Щербина Миколай","AdditionalFields":[],"EmployeeNumber":"9","Post":"Брегадир"}},{"ModificationStatus":0,"Token":10464,"AdditionalFields":[],"CardCode":"3200485719","Department":{"Token":2521,"Name":"Цех"},"Device":{"Token":1363,"Name":"Прохідна"},"EventFilterPassed":true,"FaceMaskDetected":false,"IconToken":2618,"Issued":"/Date(1628054016000)/","Message":{"Token":218,"Name":"Вхід здійснено","AccessGranted":true,"Code":98,"Color":0},"PhotoToken":2617,"PhotoverificationFiltersPassed":[true,true,true,true],"Sender":{"Token":1384,"Name":"1 - вхід"},"Temperature":0,"User":{"Token":2613,"Name":"Щербина Миколай","AdditionalFields":[],"EmployeeNumber":"9","Post":"Брегадир"}},{"ModificationStatus":0,"Token":10465,"AdditionalFields":[],"CardCode":"320048BE14","Department":{"Token":2521,"Name":"Цех"},"Device":{"Token":1363,"Name":"Прохідна"},"EventFilterPassed":true,"FaceMaskDetected":false,"IconToken":2674,"Issued":"/Date(1628054276000)/","Message":{"Token":216,"Name":"Вхід дозволений","AccessGranted":true,"Code":8,"Color":255},"PhotoToken":2673,"PhotoverificationFiltersPassed":[true,true,true,true],"Sender":{"Token":1384,"Name":"1 - вхід"},"Temperature":0,"User":{"Token":2669,"Name":"Трегубенко Сергій","AdditionalFields":[],"EmployeeNumber":"17","Post":"Слюсар"}},{"ModificationStatus":0,"Token":10466,"AdditionalFields":[],"CardCode":"320048BE14","Department":{"Token":2521,"Name":"Цех"},"Device":{"Token":1363,"Name":"Прохідна"},"EventFilterPassed":true,"FaceMaskDetected":false,"IconToken":2674,"Issued":"/Date(1628054286000)/","Message":{"Token":218,"Name":"Вхід здійснено","AccessGranted":true,"Code":98,"Color":0},"PhotoToken":2673,"PhotoverificationFiltersPassed":[true,true,true,true],"Sender":{"Token":1384,"Name":"1 - вхід"},"Temperature":0,"User":{"Token":2669,"Name":"Трегубенко Сергій","AdditionalFields":[],"EmployeeNumber":"17","Post":"Слюсар"}},{"ModificationStatus":0,"Token":10467,"AdditionalFields":[],"CardCode":"3800E49C36","Department":{"Token":1618,"Name":"Офіс"},"Device":{"Token":1363,"Name":"Прохідна"},"EventFilterPassed":true,"FaceMaskDetected":false,"IconToken":2423,"Issued":"/Date(1628054403000)/","Message":{"Token":216,"Name":"Вхід дозволений","AccessGranted":true,"Code":8,"Color":255},"PhotoToken":2422,"PhotoverificationFiltersPassed":[true,true,true,true],"Sender":{"Token":1384,"Name":"1 - вхід"},"Temperature":0,"User":{"Token":2415,"Name":"Зінченко Володимир","AdditionalFields":[],"EmployeeNumber":"6","Post":"Інженер"}},{"ModificationStatus":0,"Token":10468,"AdditionalFields":[],"CardCode":"3800E49C36","Department":{"Token":1618,"Name":"Офіс"},"Device":{"Token":1363,"Name":"Прохідна"},"EventFilterPassed":true,"FaceMaskDetected":false,"IconToken":2423,"Issued":"/Date(1628054412000)/","Message":{"Token":218,"Name":"Вхід здійснено","AccessGranted":true,"Code":98,"Color":0},"PhotoToken":2422,"PhotoverificationFiltersPassed":[true,true,true,true],"Sender":{"Token":1384,"Name":"1 - вхід"},"Temperature":0,"User":{"Token":2415,"Name":"Зінченко Володимир","AdditionalFields":[],"EmployeeNumber":"6","Post":"Інженер"}},{"ModificationStatus":0,"Token":10469,"AdditionalFields":[],"CardCode":"32002017A0","Department":{"Token":2521,"Name":"Цех"},"Device":{"Token":1363,"Name":"Прохідна"},"EventFilterPassed":true,"FaceMaskDetected":false,"IconToken":2646,"Issued":"/Date(1628054424000)/","Message":{"Token":216,"Name":"Вхід дозволений","AccessGranted":true,"Code":8,"Color":255},"PhotoToken":2645,"PhotoverificationFiltersPassed":[true,true,true,true],"Sender":{"Token":1384,"Name":"1 - вхід"},"Temperature":0,"User":{"Token":2641,"Name":"Шимко Віктор","AdditionalFields":[],"EmployeeNumber":"17","Post":"Слюсар"}},{"ModificationStatus":0,"Token":10470,"AdditionalFields":[],"CardCode":"3300C861A5","Department":{"Token":2521,"Name":"Цех"},"Device":{"Token":1363,"Name":"Прохідна"},"EventFilterPassed":true,"FaceMaskDetected":false,"IconToken":2559,"Issued":"/Date(1628054426000)/","Message":{"Token":216,"Name":"Вхід дозволений","AccessGranted":true,"Code":8,"Color":255},"PhotoToken":2558,"PhotoverificationFiltersPassed":[true,true,true,true],"Sender":{"Token":1384,"Name":"1 - вхід"},"Temperature":0,"User":{"Token":2554,"Name":"Яхно Станіслав","AdditionalFields":[],"EmployeeNumber":"15","Post":"Слюсар"}},{"ModificationStatus":0,"Token":10471,"AdditionalFields":[],"CardCode":"3300C861A5","Department":{"Token":2521,"Name":"Цех"},"Device":{"Token":1363,"Name":"Прохідна"},"EventFilterPassed":true,"FaceMaskDetected":false,"IconToken":2559,"Issued":"/Date(1628054435000)/","Message":{"Token":218,"Name":"Вхід здійснено","AccessGranted":true,"Code":98,"Color":0},"PhotoToken":2558,"PhotoverificationFiltersPassed":[true,true,true,true],"Sender":{"Token":1384,"Name":"1 - вхід"},"Temperature":0,"User":{"Token":2554,"Name":"Яхно Станіслав","AdditionalFields":[],"EmployeeNumber":"15","Post":"Слюсар"}},{"ModificationStatus":0,"Token":10472,"AdditionalFields":[],"CardCode":"3800EC9B7C","Department":{"Token":2521,"Name":"Цех"},"Device":{"Token":1363,"Name":"Прохідна"},"EventFilterPassed":true,"FaceMaskDetected":false,"IconToken":2919,"Issued":"/Date(1628056200000)/","Message":{"Token":216,"Name":"Вхід дозволений","AccessGranted":true,"Code":8,"Color":255},"PhotoToken":2918,"PhotoverificationFiltersPassed":[true,true,true,true],"Sender":{"Token":1384,"Name":"1 - вхід"},"Temperature":0,"User":{"Token":2914,"Name":"Горнакова Татьяна ","AdditionalFields":[],"EmployeeNumber":"27","Post":"Прибиральник"}},{"ModificationStatus":0,"Token":10473,"AdditionalFields":[],"CardCode":"3800EC9B7C","Department":{"Token":2521,"Name":"Цех"},"Device":{"Token":1363,"Name":"Прохідна"},"EventFilterPassed":true,"FaceMaskDetected":false,"IconToken":2919,"Issued":"/Date(1628056210000)/","Message":{"Token":218,"Name":"Вхід здійснено","AccessGranted":true,"Code":98,"Color":0},"PhotoToken":2918,"PhotoverificationFiltersPassed":[true,true,true,true],"Sender":{"Token":1384,"Name":"1 - вхід"},"Temperature":0,"User":{"Token":2914,"Name":"Горнакова Татьяна ","AdditionalFields":[],"EmployeeNumber":"27","Post":"Прибиральник"}},{"ModificationStatus":0,"Token":10474,"AdditionalFields":[],"CardCode":"3800E528E0","Department":{"Token":1618,"Name":"Офіс"},"Device":{"Token":1363,"Name":"Прохідна"},"EventFilterPassed":true,"FaceMaskDetected":false,"IconToken":2501,"Issued":"/Date(1628056327000)/","Message":{"Token":216,"Name":"Вхід дозволений","AccessGranted":true,"Code":8,"Color":255},"PhotoToken":2500,"PhotoverificationFiltersPassed":[true,true,true,true],"Sender":{"Token":1384,"Name":"1 - вхід"},"Temperature":0,"User":{"Token":2493,"Name":"Якименко Віталій","AdditionalFields":[],"EmployeeNumber":"4","Post":"Інженер"}},{"ModificationStatus":0,"Token":10475,"AdditionalFields":[],"CardCode":"3800EE5017","Department":{"Token":1618,"Name":"Офіс"},"Device":{"Token":1363,"Name":"Прохідна"},"EventFilterPassed":true,"FaceMaskDetected":false,"IconToken":2481,"Issued":"/Date(1628056329000)/","Message":{"Token":216,"Name":"Вхід дозволений","AccessGranted":true,"Code":8,"Color":255},"PhotoToken":2480,"PhotoverificationFiltersPassed":[true,true,true,true],"Sender":{"Token":1384,"Name":"1 - вхід"},"Temperature":0,"User":{"Token":2473,"Name":"Голиборода Вероніка","AdditionalFields":[],"EmployeeNumber":"2","Post":"Технолог"}},{"ModificationStatus":0,"Token":10476,"AdditionalFields":[],"CardCode":"3800EE5017","Department":{"Token":1618,"Name":"Офіс"},"Device":{"Token":1363,"Name":"Прохідна"},"EventFilterPassed":true,"FaceMaskDetected":false,"IconToken":2481,"Issued":"/Date(1628056338000)/","Message":{"Token":218,"Name":"Вхід здійснено","AccessGranted":true,"Code":98,"Color":0},"PhotoToken":2480,"PhotoverificationFiltersPassed":[true,true,true,true],"Sender":{"Token":1384,"Name":"1 - вхід"},"Temperature":0,"User":{"Token":2473,"Name":"Голиборода Вероніка","AdditionalFields":[],"EmployeeNumber":"2","Post":"Технолог"}},{"ModificationStatus":0,"Token":10477,"AdditionalFields":[],"CardCode":"2A99B3B80B","Department":{"Token":1618,"Name":"Офіс"},"Device":{"Token":1363,"Name":"Прохідна"},"EventFilterPassed":true,"FaceMaskDetected":false,"IconToken":1642,"Issued":"/Date(1628056359000)/","Message":{"Token":216,"Name":"Вхід дозволений","AccessGranted":true,"Code":8,"Color":255},"PhotoToken":1641,"PhotoverificationFiltersPassed":[true,true,true,true],"Sender":{"Token":1384,"Name":"1 - вхід"},"Temperature":0,"User":{"Token":1634,"Name":"Кузюк Данило ","AdditionalFields":[],"EmployeeNumber":"132","Post":"Технік"}},{"ModificationStatus":0,"Token":10478,"AdditionalFields":[],"CardCode":"2A99B3B80B","Department":{"Token":1618,"Name":"Офіс"},"Device":{"Token":1363,"Name":"Прохідна"},"EventFilterPassed":true,"FaceMaskDetected":false,"IconToken":1642,"Issued":"/Date(1628056368000)/","Message":{"Token":218,"Name":"Вхід здійснено","AccessGranted":true,"Code":98,"Color":0},"PhotoToken":1641,"PhotoverificationFiltersPassed":[true,true,true,true],"Sender":{"Token":1384,"Name":"1 - вхід"},"Temperature":0,"User":{"Token":1634,"Name":"Кузюк Данило ","AdditionalFields":[],"EmployeeNumber":"132","Post":"Технік"}},{"ModificationStatus":0,"Token":10479,"AdditionalFields":[],"CardCode":"32004929C5","Department":{"Token":1618,"Name":"Офіс"},"Device":{"Token":1363,"Name":"Прохідна"},"EventFilterPassed":true,"FaceMaskDetected":false,"IconToken":2383,"Issued":"/Date(1628056463000)/","Message":{"Token":216,"Name":"Вхід дозволений","AccessGranted":true,"Code":8,"Color":255},"PhotoToken":2382,"PhotoverificationFiltersPassed":[true,true,true,true],"Sender":{"Token":1384,"Name":"1 - вхід"},"Temperature":0,"User":{"Token":2375,"Name":"Якименко Ольга","AdditionalFields":[],"EmployeeNumber":"2","Post":"Бухгалтер"}},{"ModificationStatus":0,"Token":10480,"AdditionalFields":[],"CardCode":"","Department":{"Token":0,"Name":""},"Device":{"Token":1363,"Name":"Прохідна"},"EventFilterPassed":true,"FaceMaskDetected":false,"IconToken":0,"Issued":"/Date(1628056472000)/","Message":{"Token":235,"Name":"Доступ дозволено: натиснута кнопка запиту на прохід","AccessGranted":true,"Code":34,"Color":255},"PhotoToken":0,"PhotoverificationFiltersPassed":[true,true,true,true],"Sender":{"Token":1385,"Name":"1 - вихід"},"Temperature":0,"User":{"Token":0,"Name":"","AdditionalFields":[],"EmployeeNumber":"","Post":""}},{"ModificationStatus":0,"Token":10481,"AdditionalFields":[],"CardCode":"32004929C5","Department":{"Token":1618,"Name":"Офіс"},"Device":{"Token":1363,"Name":"Прохідна"},"EventFilterPassed":true,"FaceMaskDetected":false,"IconToken":2383,"Issued":"/Date(1628056472000)/","Message":{"Token":218,"Name":"Вхід здійснено","AccessGranted":true,"Code":98,"Color":0},"PhotoToken":2382,"PhotoverificationFiltersPassed":[true,true,true,true],"Sender":{"Token":1384,"Name":"1 - вхід"},"Temperature":0,"User":{"Token":2375,"Name":"Якименко Ольга","AdditionalFields":[],"EmployeeNumber":"2","Post":"Бухгалтер"}},{"ModificationStatus":0,"Token":10482,"AdditionalFields":[],"CardCode":"","Department":{"Token":0,"Name":""},"Device":{"Token":1363,"Name":"Прохідна"},"EventFilterPassed":true,"FaceMaskDetected":false,"IconToken":0,"Issued":"/Date(1628056475000)/","Message":{"Token":235,"Name":"Доступ дозволено: натиснута кнопка запиту на прохід","AccessGranted":true,"Code":34,"Color":255},"PhotoToken":0,"PhotoverificationFiltersPassed":[true,true,true,true],"Sender":{"Token":1385,"Name":"1 - вихід"},"Temperature":0,"User":{"Token":0,"Name":"","AdditionalFields":[],"EmployeeNumber":"","Post":""}},{"ModificationStatus":0,"Token":10483,"AdditionalFields":[],"CardCode":"","Department":{"Token":0,"Name":""},"Device":{"Token":1363,"Name":"Прохідна"},"EventFilterPassed":true,"FaceMaskDetected":false,"IconToken":0,"Issued":"/Date(1628056475000)/","Message":{"Token":235,"Name":"Доступ дозволено: натиснута кнопка запиту на прохід","AccessGranted":true,"Code":34,"Color":255},"PhotoToken":0,"PhotoverificationFiltersPassed":[true,true,true,true],"Sender":{"Token":1385,"Name":"1 - вихід"},"Temperature":0,"User":{"Token":0,"Name":"","AdditionalFields":[],"EmployeeNumber":"","Post":""}},{"ModificationStatus":0,"Token":10484,"AdditionalFields":[],"CardCode":"330088FD61","Department":{"Token":2521,"Name":"Цех"},"Device":{"Token":1363,"Name":"Прохідна"},"EventFilterPassed":true,"FaceMaskDetected":false,"IconToken":3164,"Issued":"/Date(1628056900000)/","Message":{"Token":217,"Name":"Вихід дозволений","AccessGranted":true,"Code":9,"Color":255},"PhotoToken":3163,"PhotoverificationFiltersPassed":[true,true,true,true],"Sender":{"Token":1385,"Name":"1 - вихід"},"Temperature":0,"User":{"Token":3156,"Name":"Сілаков Олексій","AdditionalFields":[],"EmployeeNumber":"29","Post":"Охорона"}},{"ModificationStatus":0,"Token":10485,"AdditionalFields":[],"CardCode":"330088FD61","Department":{"Token":2521,"Name":"Цех"},"Device":{"Token":1363,"Name":"Прохідна"},"EventFilterPassed":true,"FaceMaskDetected":false,"IconToken":3164,"Issued":"/Date(1628056909000)/","Message":{"Token":219,"Name":"Вихід здійснено","AccessGranted":true,"Code":99,"Color":0},"PhotoToken":3163,"PhotoverificationFiltersPassed":[true,true,true,true],"Sender":{"Token":1385,"Name":"1 - вихід"},"Temperature":0,"User":{"Token":3156,"Name":"Сілаков Олексій","AdditionalFields":[],"EmployeeNumber":"29","Post":"Охорона"}},{"ModificationStatus":0,"Token":10486,"AdditionalFields":[],"CardCode":"3300C89440","Department":{"Token":1618,"Name":"Офіс"},"Device":{"Token":1363,"Name":"Прохідна"},"EventFilterPassed":true,"FaceMaskDetected":false,"IconToken":2364,"Issued":"/Date(1628057207000)/","Message":{"Token":216,"Name":"Вхід дозволений","AccessGranted":true,"Code":8,"Color":255},"PhotoToken":2363,"PhotoverificationFiltersPassed":[true,true,true,true],"Sender":{"Token":1384,"Name":"1 - вхід"},"Temperature":0,"User":{"Token":2356,"Name":"Пушкарук Наталія","AdditionalFields":[],"EmployeeNumber":"5","Post":"Бухгалтер"}},{"ModificationStatus":0,"Token":10487,"AdditionalFields":[],"CardCode":"3800EE68AB","Department":{"Token":2521,"Name":"Цех"},"Device":{"Token":1363,"Name":"Прохідна"},"EventFilterPassed":true,"FaceMaskDetected":false,"IconToken":2545,"Issued":"/Date(1628057210000)/","Message":{"Token":216,"Name":"Вхід дозволений","AccessGranted":true,"Code":8,"Color":255},"PhotoToken":2544,"PhotoverificationFiltersPassed":[true,true,true,true],"Sender":{"Token":1384,"Name":"1 - вхід"},"Temperature":0,"User":{"Token":2540,"Name":"Голиборода Олег","AdditionalFields":[],"EmployeeNumber":"17","Post":"Зварювальник"}},{"ModificationStatus":0,"Token":10488,"AdditionalFields":[],"CardCode":"3800EE68AB","Department":{"Token":2521,"Name":"Цех"},"Device":{"Token":1363,"Name":"Прохідна"},"EventFilterPassed":true,"FaceMaskDetected":false,"IconToken":2545,"Issued":"/Date(1628057219000)/","Message":{"Token":218,"Name":"Вхід здійснено","AccessGranted":true,"Code":98,"Color":0},"PhotoToken":2544,"PhotoverificationFiltersPassed":[true,true,true,true],"Sender":{"Token":1384,"Name":"1 - вхід"},"Temperature":0,"User":{"Token":2540,"Name":"Голиборода Олег","AdditionalFields":[],"EmployeeNumber":"17","Post":"Зварювальник"}},{"ModificationStatus":0,"Token":10489,"AdditionalFields":[],"CardCode":"2A99B3B80F","Department":{"Token":1618,"Name":"Офіс"},"Device":{"Token":1363,"Name":"Прохідна"},"EventFilterPassed":true,"FaceMaskDetected":false,"IconToken":2442,"Issued":"/Date(1628057222000)/","Message":{"Token":216,"Name":"Вхід дозволений","AccessGranted":true,"Code":8,"Color":255},"PhotoToken":2441,"PhotoverificationFiltersPassed":[true,true,true,true],"Sender":{"Token":1384,"Name":"1 - вхід"},"Temperature":0,"User":{"Token":2434,"Name":"Голик Вадим","AdditionalFields":[],"EmployeeNumber":"14","Post":"Інженер"}},{"ModificationStatus":0,"Token":10490,"AdditionalFields":[],"CardCode":"2A99B3B80F","Department":{"Token":1618,"Name":"Офіс"},"Device":{"Token":1363,"Name":"Прохідна"},"EventFilterPassed":true,"FaceMaskDetected":false,"IconToken":2442,"Issued":"/Date(1628057231000)/","Message":{"Token":218,"Name":"Вхід здійснено","AccessGranted":true,"Code":98,"Color":0},"PhotoToken":2441,"PhotoverificationFiltersPassed":[true,true,true,true],"Sender":{"Token":1384,"Name":"1 - вхід"},"Temperature":0,"User":{"Token":2434,"Name":"Голик Вадим","AdditionalFields":[],"EmployeeNumber":"14","Post":"Інженер"}},{"ModificationStatus":0,"Token":10491,"AdditionalFields":[],"CardCode":"33008DFF72","Department":{"Token":1618,"Name":"Офіс"},"Device":{"Token":1363,"Name":"Прохідна"},"EventFilterPassed":true,"FaceMaskDetected":false,"IconToken":1991,"Issued":"/Date(1628057267000)/","Message":{"Token":216,"Name":"Вхід дозволений","AccessGranted":true,"Code":8,"Color":255},"PhotoToken":1990,"PhotoverificationFiltersPassed":[true,true,true,true],"Sender":{"Token":1384,"Name":"1 - вхід"},"Temperature":0,"User":{"Token":1982,"Name":"Кузюк Ірина","AdditionalFields":[],"EmployeeNumber":"1","Post":"PR"}},{"ModificationStatus":0,"Token":10492,"AdditionalFields":[],"CardCode":"33008DFF72","Department":{"Token":1618,"Name":"Офіс"},"Device":{"Token":1363,"Name":"Прохідна"},"EventFilterPassed":true,"FaceMaskDetected":false,"IconToken":1991,"Issued":"/Date(1628057276000)/","Message":{"Token":218,"Name":"Вхід здійснено","AccessGranted":true,"Code":98,"Color":0},"PhotoToken":1990,"PhotoverificationFiltersPassed":[true,true,true,true],"Sender":{"Token":1384,"Name":"1 - вхід"},"Temperature":0,"User":{"Token":1982,"Name":"Кузюк Ірина","AdditionalFields":[],"EmployeeNumber":"1","Post":"PR"}},{"ModificationStatus":0,"Token":10493,"AdditionalFields":[],"CardCode":"3800EC7539","Department":{"Token":1618,"Name":"Офіс"},"Device":{"Token":1363,"Name":"Прохідна"},"EventFilterPassed":true,"FaceMaskDetected":false,"IconToken":2113,"Issued":"/Date(1628057276000)/","Message":{"Token":216,"Name":"Вхід дозволений","AccessGranted":true,"Code":8,"Color":255},"PhotoToken":2112,"PhotoverificationFiltersPassed":[true,true,true,true],"Sender":{"Token":1384,"Name":"1 - вхід"},"Temperature":0,"User":{"Token":2105,"Name":"Кузюк Олександр ","AdditionalFields":[],"EmployeeNumber":"3","Post":"Адмін"}},{"ModificationStatus":0,"Token":10494,"AdditionalFields":[],"CardCode":"3800EC7539","Department":{"Token":1618,"Name":"Офіс"},"Device":{"Token":1363,"Name":"Прохідна"},"EventFilterPassed":true,"FaceMaskDetected":false,"IconToken":2113,"Issued":"/Date(1628057286000)/","Message":{"Token":218,"Name":"Вхід здійснено","AccessGranted":true,"Code":98,"Color":0},"PhotoToken":2112,"PhotoverificationFiltersPassed":[true,true,true,true],"Sender":{"Token":1384,"Name":"1 - вхід"},"Temperature":0,"User":{"Token":2105,"Name":"Кузюк Олександр ","AdditionalFields":[],"EmployeeNumber":"3","Post":"Адмін"}},{"ModificationStatus":0,"Token":10495,"AdditionalFields":[],"CardCode":"32004929C5","Department":{"Token":1618,"Name":"Офіс"},"Device":{"Token":1363,"Name":"Прохідна"},"EventFilterPassed":true,"FaceMaskDetected":false,"IconToken":2383,"Issued":"/Date(1628058358000)/","Message":{"Token":217,"Name":"Вихід дозволений","AccessGranted":true,"Code":9,"Color":255},"PhotoToken":2382,"PhotoverificationFiltersPassed":[true,true,true,true],"Sender":{"Token":1385,"Name":"1 - вихід"},"Temperature":0,"User":{"Token":2375,"Name":"Якименко Ольга","AdditionalFields":[],"EmployeeNumber":"2","Post":"Бухгалтер"}},{"ModificationStatus":0,"Token":10496,"AdditionalFields":[],"CardCode":"32004929C5","Department":{"Token":1618,"Name":"Офіс"},"Device":{"Token":1363,"Name":"Прохідна"},"EventFilterPassed":true,"FaceMaskDetected":false,"IconToken":2383,"Issued":"/Date(1628058367000)/","Message":{"Token":219,"Name":"Вихід здійснено","AccessGranted":true,"Code":99,"Color":0},"PhotoToken":2382,"PhotoverificationFiltersPassed":[true,true,true,true],"Sender":{"Token":1385,"Name":"1 - вихід"},"Temperature":0,"User":{"Token":2375,"Name":"Якименко Ольга","AdditionalFields":[],"EmployeeNumber":"2","Post":"Бухгалтер"}},{"ModificationStatus":0,"Token":10497,"AdditionalFields":[],"CardCode":"32004929C5","Department":{"Token":1618,"Name":"Офіс"},"Device":{"Token":1363,"Name":"Прохідна"},"EventFilterPassed":true,"FaceMaskDetected":false,"IconToken":2383,"Issued":"/Date(1628058407000)/","Message":{"Token":216,"Name":"Вхід дозволений","AccessGranted":true,"Code":8,"Color":255},"PhotoToken":2382,"PhotoverificationFiltersPassed":[true,true,true,true],"Sender":{"Token":1384,"Name":"1 - вхід"},"Temperature":0,"User":{"Token":2375,"Name":"Якименко Ольга","AdditionalFields":[],"EmployeeNumber":"2","Post":"Бухгалтер"}},{"ModificationStatus":0,"Token":10498,"AdditionalFields":[],"CardCode":"32004929C5","Department":{"Token":1618,"Name":"Офіс"},"Device":{"Token":1363,"Name":"Прохідна"},"EventFilterPassed":true,"FaceMaskDetected":false,"IconToken":2383,"Issued":"/Date(1628058416000)/","Message":{"Token":218,"Name":"Вхід здійснено","AccessGranted":true,"Code":98,"Color":0},"PhotoToken":2382,"PhotoverificationFiltersPassed":[true,true,true,true],"Sender":{"Token":1384,"Name":"1 - вхід"},"Temperature":0,"User":{"Token":2375,"Name":"Якименко Ольга","AdditionalFields":[],"EmployeeNumber":"2","Post":"Бухгалтер"}},{"ModificationStatus":0,"Token":10499,"AdditionalFields":[],"CardCode":"3800E528E0","Department":{"Token":1618,"Name":"Офіс"},"Device":{"Token":1363,"Name":"Прохідна"},"EventFilterPassed":true,"FaceMaskDetected":false,"IconToken":2501,"Issued":"/Date(1628062723000)/","Message":{"Token":217,"Name":"Вихід дозволений","AccessGranted":true,"Code":9,"Color":255},"PhotoToken":2500,"PhotoverificationFiltersPassed":[true,true,true,true],"Sender":{"Token":1385,"Name":"1 - вихід"},"Temperature":0,"User":{"Token":2493,"Name":"Якименко Віталій","AdditionalFields":[],"EmployeeNumber":"4","Post":"Інженер"}},{"ModificationStatus":0,"Token":10500,"AdditionalFields":[],"CardCode":"3800E528E0","Department":{"Token":1618,"Name":"Офіс"},"Device":{"Token":1363,"Name":"Прохідна"},"EventFilterPassed":true,"FaceMaskDetected":false,"IconToken":2501,"Issued":"/Date(1628062732000)/","Message":{"Token":219,"Name":"Вихід здійснено","AccessGranted":true,"Code":99,"Color":0},"PhotoToken":2500,"PhotoverificationFiltersPassed":[true,true,true,true],"Sender":{"Token":1385,"Name":"1 - вихід"},"Temperature":0,"User":{"Token":2493,"Name":"Якименко Віталій","AdditionalFields":[],"EmployeeNumber":"4","Post":"Інженер"}},{"ModificationStatus":0,"Token":10501,"AdditionalFields":[],"CardCode":"3800E528E0","Department":{"Token":1618,"Name":"Офіс"},"Device":{"Token":1363,"Name":"Прохідна"},"EventFilterPassed":true,"FaceMaskDetected":false,"IconToken":2501,"Issued":"/Date(1628062735000)/","Message":{"Token":216,"Name":"Вхід дозволений","AccessGranted":true,"Code":8,"Color":255},"PhotoToken":2500,"PhotoverificationFiltersPassed":[true,true,true,true],"Sender":{"Token":1384,"Name":"1 - вхід"},"Temperature":0,"User":{"Token":2493,"Name":"Якименко Віталій","AdditionalFields":[],"EmployeeNumber":"4","Post":"Інженер"}},{"ModificationStatus":0,"Token":10502,"AdditionalFields":[],"CardCode":"3800E528E0","Department":{"Token":1618,"Name":"Офіс"},"Device":{"Token":1363,"Name":"Прохідна"},"EventFilterPassed":true,"FaceMaskDetected":false,"IconToken":2501,"Issued":"/Date(1628062744000)/","Message":{"Token":218,"Name":"Вхід здійснено","AccessGranted":true,"Code":98,"Color":0},"PhotoToken":2500,"PhotoverificationFiltersPassed":[true,true,true,true],"Sender":{"Token":1384,"Name":"1 - вхід"},"Temperature":0,"User":{"Token":2493,"Name":"Якименко Віталій","AdditionalFields":[],"EmployeeNumber":"4","Post":"Інженер"}},{"ModificationStatus":0,"Token":10503,"AdditionalFields":[],"CardCode":"320048BE14","Department":{"Token":2521,"Name":"Цех"},"Device":{"Token":1363,"Name":"Прохідна"},"EventFilterPassed":true,"FaceMaskDetected":false,"IconToken":2674,"Issued":"/Date(1628066988000)/","Message":{"Token":217,"Name":"Вихід дозволений","AccessGranted":true,"Code":9,"Color":255},"PhotoToken":2673,"PhotoverificationFiltersPassed":[true,true,true,true],"Sender":{"Token":1385,"Name":"1 - вихід"},"Temperature":0,"User":{"Token":2669,"Name":"Трегубенко Сергій","AdditionalFields":[],"EmployeeNumber":"17","Post":"Слюсар"}},{"ModificationStatus":0,"Token":10504,"AdditionalFields":[],"CardCode":"320048BE14","Department":{"Token":2521,"Name":"Цех"},"Device":{"Token":1363,"Name":"Прохідна"},"EventFilterPassed":true,"FaceMaskDetected":false,"IconToken":2674,"Issued":"/Date(1628066997000)/","Message":{"Token":219,"Name":"Вихід здійснено","AccessGranted":true,"Code":99,"Color":0},"PhotoToken":2673,"PhotoverificationFiltersPassed":[true,true,true,true],"Sender":{"Token":1385,"Name":"1 - вихід"},"Temperature":0,"User":{"Token":2669,"Name":"Трегубенко Сергій","AdditionalFields":[],"EmployeeNumber":"17","Post":"Слюсар"}},{"ModificationStatus":0,"Token":10505,"AdditionalFields":[],"CardCode":"3200485719","Department":{"Token":2521,"Name":"Цех"},"Device":{"Token":1363,"Name":"Прохідна"},"EventFilterPassed":true,"FaceMaskDetected":false,"IconToken":2618,"Issued":"/Date(1628068350000)/","Message":{"Token":217,"Name":"Вихід дозволений","AccessGranted":true,"Code":9,"Color":255},"PhotoToken":2617,"PhotoverificationFiltersPassed":[true,true,true,true],"Sender":{"Token":1385,"Name":"1 - вихід"},"Temperature":0,"User":{"Token":2613,"Name":"Щербина Миколай","AdditionalFields":[],"EmployeeNumber":"9","Post":"Брегадир"}},{"ModificationStatus":0,"Token":10506,"AdditionalFields":[],"CardCode":"3200485719","Department":{"Token":2521,"Name":"Цех"},"Device":{"Token":1363,"Name":"Прохідна"},"EventFilterPassed":true,"FaceMaskDetected":false,"IconToken":2618,"Issued":"/Date(1628068359000)/","Message":{"Token":219,"Name":"Вихід здійснено","AccessGranted":true,"Code":99,"Color":0},"PhotoToken":2617,"PhotoverificationFiltersPassed":[true,true,true,true],"Sender":{"Token":1385,"Name":"1 - вихід"},"Temperature":0,"User":{"Token":2613,"Name":"Щербина Миколай","AdditionalFields":[],"EmployeeNumber":"9","Post":"Брегадир"}},{"ModificationStatus":0,"Token":10507,"AdditionalFields":[],"CardCode":"3800EC9B7C","Department":{"Token":2521,"Name":"Цех"},"Device":{"Token":1363,"Name":"Прохідна"},"EventFilterPassed":true,"FaceMaskDetected":false,"IconToken":2919,"Issued":"/Date(1628068747000)/","Message":{"Token":217,"Name":"Вихід дозволений","AccessGranted":true,"Code":9,"Color":255},"PhotoToken":2918,"PhotoverificationFiltersPassed":[true,true,true,true],"Sender":{"Token":1385,"Name":"1 - вихід"},"Temperature":0,"User":{"Token":2914,"Name":"Горнакова Татьяна ","AdditionalFields":[],"EmployeeNumber":"27","Post":"Прибиральник"}},{"ModificationStatus":0,"Token":10508,"AdditionalFields":[],"CardCode":"3800EC9B7C","Department":{"Token":2521,"Name":"Цех"},"Device":{"Token":1363,"Name":"Прохідна"},"EventFilterPassed":true,"FaceMaskDetected":false,"IconToken":2919,"Issued":"/Date(1628068756000)/","Message":{"Token":219,"Name":"Вихід здійснено","AccessGranted":true,"Code":99,"Color":0},"PhotoToken":2918,"PhotoverificationFiltersPassed":[true,true,true,true],"Sender":{"Token":1385,"Name":"1 - вихід"},"Temperature":0,"User":{"Token":2914,"Name":"Горнакова Татьяна ","AdditionalFields":[],"EmployeeNumber":"27","Post":"Прибиральник"}},{"ModificationStatus":0,"Token":10509,"AdditionalFields":[],"CardCode":"3800EC7539","Department":{"Token":1618,"Name":"Офіс"},"Device":{"Token":1363,"Name":"Прохідна"},"EventFilterPassed":true,"FaceMaskDetected":false,"IconToken":2113,"Issued":"/Date(1628069658000)/","Message":{"Token":217,"Name":"Вихід дозволений","AccessGranted":true,"Code":9,"Color":255},"PhotoToken":2112,"PhotoverificationFiltersPassed":[true,true,true,true],"Sender":{"Token":1385,"Name":"1 - вихід"},"Temperature":0,"User":{"Token":2105,"Name":"Кузюк Олександр ","AdditionalFields":[],"EmployeeNumber":"3","Post":"Адмін"}},{"ModificationStatus":0,"Token":10510,"AdditionalFields":[],"CardCode":"3800EC7539","Department":{"Token":1618,"Name":"Офіс"},"Device":{"Token":1363,"Name":"Прохідна"},"EventFilterPassed":true,"FaceMaskDetected":false,"IconToken":2113,"Issued":"/Date(1628069667000)/","Message":{"Token":219,"Name":"Вихід здійснено","AccessGranted":true,"Code":99,"Color":0},"PhotoToken":2112,"PhotoverificationFiltersPassed":[true,true,true,true],"Sender":{"Token":1385,"Name":"1 - вихід"},"Temperature":0,"User":{"Token":2105,"Name":"Кузюк Олександр ","AdditionalFields":[],"EmployeeNumber":"3","Post":"Адмін"}},{"ModificationStatus":0,"Token":10511,"AdditionalFields":[],"CardCode":"320048BE14","Department":{"Token":2521,"Name":"Цех"},"Device":{"Token":1363,"Name":"Прохідна"},"EventFilterPassed":true,"FaceMaskDetected":false,"IconToken":2674,"Issued":"/Date(1628069700000)/","Message":{"Token":216,"Name":"Вхід дозволений","AccessGranted":true,"Code":8,"Color":255},"PhotoToken":2673,"PhotoverificationFiltersPassed":[true,true,true,true],"Sender":{"Token":1384,"Name":"1 - вхід"},"Temperature":0,"User":{"Token":2669,"Name":"Трегубенко Сергій","AdditionalFields":[],"EmployeeNumber":"17","Post":"Слюсар"}},{"ModificationStatus":0,"Token":10512,"AdditionalFields":[],"CardCode":"320048BE14","Department":{"Token":2521,"Name":"Цех"},"Device":{"Token":1363,"Name":"Прохідна"},"EventFilterPassed":true,"FaceMaskDetected":false,"IconToken":2674,"Issued":"/Date(1628069710000)/","Message":{"Token":218,"Name":"Вхід здійснено","AccessGranted":true,"Code":98,"Color":0},"PhotoToken":2673,"PhotoverificationFiltersPassed":[true,true,true,true],"Sender":{"Token":1384,"Name":"1 - вхід"},"Temperature":0,"User":{"Token":2669,"Name":"Трегубенко Сергій","AdditionalFields":[],"EmployeeNumber":"17","Post":"Слюсар"}},{"ModificationStatus":0,"Token":10513,"AdditionalFields":[],"CardCode":"3800EC7539","Department":{"Token":1618,"Name":"Офіс"},"Device":{"Token":1363,"Name":"Прохідна"},"EventFilterPassed":true,"FaceMaskDetected":false,"IconToken":2113,"Issued":"/Date(1628069792000)/","Message":{"Token":217,"Name":"Вихід дозволений","AccessGranted":true,"Code":9,"Color":255},"PhotoToken":2112,"PhotoverificationFiltersPassed":[true,true,true,true],"Sender":{"Token":1385,"Name":"1 - вихід"},"Temperature":0,"User":{"Token":2105,"Name":"Кузюк Олександр ","AdditionalFields":[],"EmployeeNumber":"3","Post":"Адмін"}},{"ModificationStatus":0,"Token":10514,"AdditionalFields":[],"CardCode":"3800EC7539","Department":{"Token":1618,"Name":"Офіс"},"Device":{"Token":1363,"Name":"Прохідна"},"EventFilterPassed":true,"FaceMaskDetected":false,"IconToken":2113,"Issued":"/Date(1628069801000)/","Message":{"Token":219,"Name":"Вихід здійснено","AccessGranted":true,"Code":99,"Color":0},"PhotoToken":2112,"PhotoverificationFiltersPassed":[true,true,true,true],"Sender":{"Token":1385,"Name":"1 - вихід"},"Temperature":0,"User":{"Token":2105,"Name":"Кузюк Олександр ","AdditionalFields":[],"EmployeeNumber":"3","Post":"Адмін"}},{"ModificationStatus":0,"Token":10515,"AdditionalFields":[],"CardCode":"33008DFF72","Department":{"Token":1618,"Name":"Офіс"},"Device":{"Token":1363,"Name":"Прохідна"},"EventFilterPassed":true,"FaceMaskDetected":false,"IconToken":1991,"Issued":"/Date(1628070210000)/","Message":{"Token":217,"Name":"Вихід дозволений","AccessGranted":true,"Code":9,"Color":255},"PhotoToken":1990,"PhotoverificationFiltersPassed":[true,true,true,true],"Sender":{"Token":1385,"Name":"1 - вихід"},"Temperature":0,"User":{"Token":1982,"Name":"Кузюк Ірина","AdditionalFields":[],"EmployeeNumber":"1","Post":"PR"}},{"ModificationStatus":0,"Token":10516,"AdditionalFields":[],"CardCode":"33008DFF72","Department":{"Token":1618,"Name":"Офіс"},"Device":{"Token":1363,"Name":"Прохідна"},"EventFilterPassed":true,"FaceMaskDetected":false,"IconToken":1991,"Issued":"/Date(1628070219000)/","Message":{"Token":219,"Name":"Вихід здійснено","AccessGranted":true,"Code":99,"Color":0},"PhotoToken":1990,"PhotoverificationFiltersPassed":[true,true,true,true],"Sender":{"Token":1385,"Name":"1 - вихід"},"Temperature":0,"User":{"Token":1982,"Name":"Кузюк Ірина","AdditionalFields":[],"EmployeeNumber":"1","Post":"PR"}},{"ModificationStatus":0,"Token":10517,"AdditionalFields":[],"CardCode":"3800EC7539","Department":{"Token":1618,"Name":"Офіс"},"Device":{"Token":1363,"Name":"Прохідна"},"EventFilterPassed":true,"FaceMaskDetected":false,"IconToken":2113,"Issued":"/Date(1628070567000)/","Message":{"Token":217,"Name":"Вихід дозволений","AccessGranted":true,"Code":9,"Color":255},"PhotoToken":2112,"PhotoverificationFiltersPassed":[true,true,true,true],"Sender":{"Token":1385,"Name":"1 - вихід"},"Temperature":0,"User":{"Token":2105,"Name":"Кузюк Олександр ","AdditionalFields":[],"EmployeeNumber":"3","Post":"Адмін"}},{"ModificationStatus":0,"Token":10518,"AdditionalFields":[],"CardCode":"3800EC7539","Department":{"Token":1618,"Name":"Офіс"},"Device":{"Token":1363,"Name":"Прохідна"},"EventFilterPassed":true,"FaceMaskDetected":false,"IconToken":2113,"Issued":"/Date(1628070576000)/","Message":{"Token":219,"Name":"Вихід здійснено","AccessGranted":true,"Code":99,"Color":0},"PhotoToken":2112,"PhotoverificationFiltersPassed":[true,true,true,true],"Sender":{"Token":1385,"Name":"1 - вихід"},"Temperature":0,"User":{"Token":2105,"Name":"Кузюк Олександр ","AdditionalFields":[],"EmployeeNumber":"3","Post":"Адмін"}},{"ModificationStatus":0,"Token":10519,"AdditionalFields":[],"CardCode":"3800EE68AB","Department":{"Token":2521,"Name":"Цех"},"Device":{"Token":1363,"Name":"Прохідна"},"EventFilterPassed":true,"FaceMaskDetected":false,"IconToken":2545,"Issued":"/Date(1628079801000)/","Message":{"Token":217,"Name":"Вихід дозволений","AccessGranted":true,"Code":9,"Color":255},"PhotoToken":2544,"PhotoverificationFiltersPassed":[true,true,true,true],"Sender":{"Token":1385,"Name":"1 - вихід"},"Temperature":0,"User":{"Token":2540,"Name":"Голиборода Олег","AdditionalFields":[],"EmployeeNumber":"17","Post":"Зварювальник"}},{"ModificationStatus":0,"Token":10520,"AdditionalFields":[],"CardCode":"3800EE68AB","Department":{"Token":2521,"Name":"Цех"},"Device":{"Token":1363,"Name":"Прохідна"},"EventFilterPassed":true,"FaceMaskDetected":false,"IconToken":2545,"Issued":"/Date(1628079810000)/","Message":{"Token":219,"Name":"Вихід здійснено","AccessGranted":true,"Code":99,"Color":0},"PhotoToken":2544,"PhotoverificationFiltersPassed":[true,true,true,true],"Sender":{"Token":1385,"Name":"1 - вихід"},"Temperature":0,"User":{"Token":2540,"Name":"Голиборода Олег","AdditionalFields":[],"EmployeeNumber":"17","Post":"Зварювальник"}},{"ModificationStatus":0,"Token":10521,"AdditionalFields":[],"CardCode":"3800EE68AB","Department":{"Token":2521,"Name":"Цех"},"Device":{"Token":1363,"Name":"Прохідна"},"EventFilterPassed":true,"FaceMaskDetected":false,"IconToken":2545,"Issued":"/Date(1628079877000)/","Message":{"Token":216,"Name":"Вхід дозволений","AccessGranted":true,"Code":8,"Color":255},"PhotoToken":2544,"PhotoverificationFiltersPassed":[true,true,true,true],"Sender":{"Token":1384,"Name":"1 - вхід"},"Temperature":0,"User":{"Token":2540,"Name":"Голиборода Олег","AdditionalFields":[],"EmployeeNumber":"17","Post":"Зварювальник"}},{"ModificationStatus":0,"Token":10522,"AdditionalFields":[],"CardCode":"3800EE68AB","Department":{"Token":2521,"Name":"Цех"},"Device":{"Token":1363,"Name":"Прохідна"},"EventFilterPassed":true,"FaceMaskDetected":false,"IconToken":2545,"Issued":"/Date(1628079886000)/","Message":{"Token":218,"Name":"Вхід здійснено","AccessGranted":true,"Code":98,"Color":0},"PhotoToken":2544,"PhotoverificationFiltersPassed":[true,true,true,true],"Sender":{"Token":1384,"Name":"1 - вхід"},"Temperature":0,"User":{"Token":2540,"Name":"Голиборода Олег","AdditionalFields":[],"EmployeeNumber":"17","Post":"Зварювальник"}}],"EventColumns":["Col_DateTime","Col_Employee","Col_Place","Col_Event","Col_Identifier","Col_Department","Col_Post","Col_EmployeeNumber"],"Language":"","NextToken":10523,"PhotoverificationColumnCount":1,"PhotoverificationColumns":["Col_DateTime","Col_Employee","Col_Place","Col_Event","Col_Identifier","Col_Department","Col_Post","Col_EmployeeNumber"],"PhotoverificationRowCount":1,"UserSID":"22386711703641666"}
+{
+  "Event": [
+    {
+      "ModificationStatus": 0,
+      "Token": 10454,
+      "AdditionalFields": [],
+      "CardCode": "32004894CC",
+      "Department": {
+        "Token": 2521,
+        "Name": "Цех"
+      },
+      "Device": {
+        "Token": 1363,
+        "Name": "Прохідна"
+      },
+      "EventFilterPassed": true,
+      "FaceMaskDetected": false,
+      "IconToken": 2601,
+      "Issued": "/Date(1628052422000)/",
+      "Message": {
+        "Token": 216,
+        "Name": "Вхід дозволений",
+        "AccessGranted": true,
+        "Code": 8,
+        "Color": 255
+      },
+      "PhotoToken": 2600,
+      "PhotoverificationFiltersPassed": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "Sender": {
+        "Token": 1384,
+        "Name": "1 - вхід"
+      },
+      "Temperature": 0,
+      "User": {
+        "Token": 2596,
+        "Name": "Головко Олександр",
+        "AdditionalFields": [],
+        "EmployeeNumber": "13",
+        "Post": "Електрик"
+      }
+    },
+    {
+      "ModificationStatus": 0,
+      "Token": 10455,
+      "AdditionalFields": [],
+      "CardCode": "32004894CC",
+      "Department": {
+        "Token": 2521,
+        "Name": "Цех"
+      },
+      "Device": {
+        "Token": 1363,
+        "Name": "Прохідна"
+      },
+      "EventFilterPassed": true,
+      "FaceMaskDetected": false,
+      "IconToken": 2601,
+      "Issued": "/Date(1628052431000)/",
+      "Message": {
+        "Token": 218,
+        "Name": "Вхід здійснено",
+        "AccessGranted": true,
+        "Code": 98,
+        "Color": 0
+      },
+      "PhotoToken": 2600,
+      "PhotoverificationFiltersPassed": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "Sender": {
+        "Token": 1384,
+        "Name": "1 - вхід"
+      },
+      "Temperature": 0,
+      "User": {
+        "Token": 2596,
+        "Name": "Головко Олександр",
+        "AdditionalFields": [],
+        "EmployeeNumber": "13",
+        "Post": "Електрик"
+      }
+    },
+    {
+      "ModificationStatus": 0,
+      "Token": 10456,
+      "AdditionalFields": [],
+      "CardCode": "32004894CC",
+      "Department": {
+        "Token": 2521,
+        "Name": "Цех"
+      },
+      "Device": {
+        "Token": 1363,
+        "Name": "Прохідна"
+      },
+      "EventFilterPassed": true,
+      "FaceMaskDetected": false,
+      "IconToken": 2601,
+      "Issued": "/Date(1628053335000)/",
+      "Message": {
+        "Token": 217,
+        "Name": "Вихід дозволений",
+        "AccessGranted": true,
+        "Code": 9,
+        "Color": 255
+      },
+      "PhotoToken": 2600,
+      "PhotoverificationFiltersPassed": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "Sender": {
+        "Token": 1385,
+        "Name": "1 - вихід"
+      },
+      "Temperature": 0,
+      "User": {
+        "Token": 2596,
+        "Name": "Головко Олександр",
+        "AdditionalFields": [],
+        "EmployeeNumber": "13",
+        "Post": "Електрик"
+      }
+    },
+    {
+      "ModificationStatus": 0,
+      "Token": 10457,
+      "AdditionalFields": [],
+      "CardCode": "32004894CC",
+      "Department": {
+        "Token": 2521,
+        "Name": "Цех"
+      },
+      "Device": {
+        "Token": 1363,
+        "Name": "Прохідна"
+      },
+      "EventFilterPassed": true,
+      "FaceMaskDetected": false,
+      "IconToken": 2601,
+      "Issued": "/Date(1628053344000)/",
+      "Message": {
+        "Token": 219,
+        "Name": "Вихід здійснено",
+        "AccessGranted": true,
+        "Code": 99,
+        "Color": 0
+      },
+      "PhotoToken": 2600,
+      "PhotoverificationFiltersPassed": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "Sender": {
+        "Token": 1385,
+        "Name": "1 - вихід"
+      },
+      "Temperature": 0,
+      "User": {
+        "Token": 2596,
+        "Name": "Головко Олександр",
+        "AdditionalFields": [],
+        "EmployeeNumber": "13",
+        "Post": "Електрик"
+      }
+    },
+    {
+      "ModificationStatus": 0,
+      "Token": 10458,
+      "AdditionalFields": [],
+      "CardCode": "32004894CC",
+      "Department": {
+        "Token": 2521,
+        "Name": "Цех"
+      },
+      "Device": {
+        "Token": 1363,
+        "Name": "Прохідна"
+      },
+      "EventFilterPassed": true,
+      "FaceMaskDetected": false,
+      "IconToken": 2601,
+      "Issued": "/Date(1628053366000)/",
+      "Message": {
+        "Token": 216,
+        "Name": "Вхід дозволений",
+        "AccessGranted": true,
+        "Code": 8,
+        "Color": 255
+      },
+      "PhotoToken": 2600,
+      "PhotoverificationFiltersPassed": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "Sender": {
+        "Token": 1384,
+        "Name": "1 - вхід"
+      },
+      "Temperature": 0,
+      "User": {
+        "Token": 2596,
+        "Name": "Головко Олександр",
+        "AdditionalFields": [],
+        "EmployeeNumber": "13",
+        "Post": "Електрик"
+      }
+    },
+    {
+      "ModificationStatus": 0,
+      "Token": 10459,
+      "AdditionalFields": [],
+      "CardCode": "32004894CC",
+      "Department": {
+        "Token": 2521,
+        "Name": "Цех"
+      },
+      "Device": {
+        "Token": 1363,
+        "Name": "Прохідна"
+      },
+      "EventFilterPassed": true,
+      "FaceMaskDetected": false,
+      "IconToken": 2601,
+      "Issued": "/Date(1628053375000)/",
+      "Message": {
+        "Token": 218,
+        "Name": "Вхід здійснено",
+        "AccessGranted": true,
+        "Code": 98,
+        "Color": 0
+      },
+      "PhotoToken": 2600,
+      "PhotoverificationFiltersPassed": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "Sender": {
+        "Token": 1384,
+        "Name": "1 - вхід"
+      },
+      "Temperature": 0,
+      "User": {
+        "Token": 2596,
+        "Name": "Головко Олександр",
+        "AdditionalFields": [],
+        "EmployeeNumber": "13",
+        "Post": "Електрик"
+      }
+    },
+    {
+      "ModificationStatus": 0,
+      "Token": 10460,
+      "AdditionalFields": [],
+      "CardCode": "3200204A2B",
+      "Department": {
+        "Token": 2521,
+        "Name": "Цех"
+      },
+      "Device": {
+        "Token": 1363,
+        "Name": "Прохідна"
+      },
+      "EventFilterPassed": true,
+      "FaceMaskDetected": false,
+      "IconToken": 2573,
+      "Issued": "/Date(1628053698000)/",
+      "Message": {
+        "Token": 216,
+        "Name": "Вхід дозволений",
+        "AccessGranted": true,
+        "Code": 8,
+        "Color": 255
+      },
+      "PhotoToken": 2572,
+      "PhotoverificationFiltersPassed": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "Sender": {
+        "Token": 1384,
+        "Name": "1 - вхід"
+      },
+      "Temperature": 0,
+      "User": {
+        "Token": 2568,
+        "Name": "Лонський Олег",
+        "AdditionalFields": [],
+        "EmployeeNumber": "18",
+        "Post": "Муляр"
+      }
+    },
+    {
+      "ModificationStatus": 0,
+      "Token": 10461,
+      "AdditionalFields": [],
+      "CardCode": "3200204A2B",
+      "Department": {
+        "Token": 2521,
+        "Name": "Цех"
+      },
+      "Device": {
+        "Token": 1363,
+        "Name": "Прохідна"
+      },
+      "EventFilterPassed": true,
+      "FaceMaskDetected": false,
+      "IconToken": 2573,
+      "Issued": "/Date(1628053707000)/",
+      "Message": {
+        "Token": 218,
+        "Name": "Вхід здійснено",
+        "AccessGranted": true,
+        "Code": 98,
+        "Color": 0
+      },
+      "PhotoToken": 2572,
+      "PhotoverificationFiltersPassed": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "Sender": {
+        "Token": 1384,
+        "Name": "1 - вхід"
+      },
+      "Temperature": 0,
+      "User": {
+        "Token": 2568,
+        "Name": "Лонський Олег",
+        "AdditionalFields": [],
+        "EmployeeNumber": "18",
+        "Post": "Муляр"
+      }
+    },
+    {
+      "ModificationStatus": 0,
+      "Token": 10462,
+      "AdditionalFields": [],
+      "CardCode": "33008ADF00",
+      "Department": {
+        "Token": 2521,
+        "Name": "Цех"
+      },
+      "Device": {
+        "Token": 1363,
+        "Name": "Прохідна"
+      },
+      "EventFilterPassed": true,
+      "FaceMaskDetected": false,
+      "IconToken": 2632,
+      "Issued": "/Date(1628054002000)/",
+      "Message": {
+        "Token": 216,
+        "Name": "Вхід дозволений",
+        "AccessGranted": true,
+        "Code": 8,
+        "Color": 255
+      },
+      "PhotoToken": 2631,
+      "PhotoverificationFiltersPassed": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "Sender": {
+        "Token": 1384,
+        "Name": "1 - вхід"
+      },
+      "Temperature": 0,
+      "User": {
+        "Token": 2627,
+        "Name": "Максименко Володимир",
+        "AdditionalFields": [],
+        "EmployeeNumber": "16",
+        "Post": "Водій"
+      }
+    },
+    {
+      "ModificationStatus": 0,
+      "Token": 10463,
+      "AdditionalFields": [],
+      "CardCode": "3200485719",
+      "Department": {
+        "Token": 2521,
+        "Name": "Цех"
+      },
+      "Device": {
+        "Token": 1363,
+        "Name": "Прохідна"
+      },
+      "EventFilterPassed": true,
+      "FaceMaskDetected": false,
+      "IconToken": 2618,
+      "Issued": "/Date(1628054007000)/",
+      "Message": {
+        "Token": 216,
+        "Name": "Вхід дозволений",
+        "AccessGranted": true,
+        "Code": 8,
+        "Color": 255
+      },
+      "PhotoToken": 2617,
+      "PhotoverificationFiltersPassed": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "Sender": {
+        "Token": 1384,
+        "Name": "1 - вхід"
+      },
+      "Temperature": 0,
+      "User": {
+        "Token": 2613,
+        "Name": "Щербина Миколай",
+        "AdditionalFields": [],
+        "EmployeeNumber": "9",
+        "Post": "Брегадир"
+      }
+    },
+    {
+      "ModificationStatus": 0,
+      "Token": 10464,
+      "AdditionalFields": [],
+      "CardCode": "3200485719",
+      "Department": {
+        "Token": 2521,
+        "Name": "Цех"
+      },
+      "Device": {
+        "Token": 1363,
+        "Name": "Прохідна"
+      },
+      "EventFilterPassed": true,
+      "FaceMaskDetected": false,
+      "IconToken": 2618,
+      "Issued": "/Date(1628054016000)/",
+      "Message": {
+        "Token": 218,
+        "Name": "Вхід здійснено",
+        "AccessGranted": true,
+        "Code": 98,
+        "Color": 0
+      },
+      "PhotoToken": 2617,
+      "PhotoverificationFiltersPassed": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "Sender": {
+        "Token": 1384,
+        "Name": "1 - вхід"
+      },
+      "Temperature": 0,
+      "User": {
+        "Token": 2613,
+        "Name": "Щербина Миколай",
+        "AdditionalFields": [],
+        "EmployeeNumber": "9",
+        "Post": "Брегадир"
+      }
+    },
+    {
+      "ModificationStatus": 0,
+      "Token": 10465,
+      "AdditionalFields": [],
+      "CardCode": "320048BE14",
+      "Department": {
+        "Token": 2521,
+        "Name": "Цех"
+      },
+      "Device": {
+        "Token": 1363,
+        "Name": "Прохідна"
+      },
+      "EventFilterPassed": true,
+      "FaceMaskDetected": false,
+      "IconToken": 2674,
+      "Issued": "/Date(1628054276000)/",
+      "Message": {
+        "Token": 216,
+        "Name": "Вхід дозволений",
+        "AccessGranted": true,
+        "Code": 8,
+        "Color": 255
+      },
+      "PhotoToken": 2673,
+      "PhotoverificationFiltersPassed": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "Sender": {
+        "Token": 1384,
+        "Name": "1 - вхід"
+      },
+      "Temperature": 0,
+      "User": {
+        "Token": 2669,
+        "Name": "Трегубенко Сергій",
+        "AdditionalFields": [],
+        "EmployeeNumber": "17",
+        "Post": "Слюсар"
+      }
+    },
+    {
+      "ModificationStatus": 0,
+      "Token": 10466,
+      "AdditionalFields": [],
+      "CardCode": "320048BE14",
+      "Department": {
+        "Token": 2521,
+        "Name": "Цех"
+      },
+      "Device": {
+        "Token": 1363,
+        "Name": "Прохідна"
+      },
+      "EventFilterPassed": true,
+      "FaceMaskDetected": false,
+      "IconToken": 2674,
+      "Issued": "/Date(1628054286000)/",
+      "Message": {
+        "Token": 218,
+        "Name": "Вхід здійснено",
+        "AccessGranted": true,
+        "Code": 98,
+        "Color": 0
+      },
+      "PhotoToken": 2673,
+      "PhotoverificationFiltersPassed": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "Sender": {
+        "Token": 1384,
+        "Name": "1 - вхід"
+      },
+      "Temperature": 0,
+      "User": {
+        "Token": 2669,
+        "Name": "Трегубенко Сергій",
+        "AdditionalFields": [],
+        "EmployeeNumber": "17",
+        "Post": "Слюсар"
+      }
+    },
+    {
+      "ModificationStatus": 0,
+      "Token": 10467,
+      "AdditionalFields": [],
+      "CardCode": "3800E49C36",
+      "Department": {
+        "Token": 1618,
+        "Name": "Офіс"
+      },
+      "Device": {
+        "Token": 1363,
+        "Name": "Прохідна"
+      },
+      "EventFilterPassed": true,
+      "FaceMaskDetected": false,
+      "IconToken": 2423,
+      "Issued": "/Date(1628054403000)/",
+      "Message": {
+        "Token": 216,
+        "Name": "Вхід дозволений",
+        "AccessGranted": true,
+        "Code": 8,
+        "Color": 255
+      },
+      "PhotoToken": 2422,
+      "PhotoverificationFiltersPassed": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "Sender": {
+        "Token": 1384,
+        "Name": "1 - вхід"
+      },
+      "Temperature": 0,
+      "User": {
+        "Token": 2415,
+        "Name": "Зінченко Володимир",
+        "AdditionalFields": [],
+        "EmployeeNumber": "6",
+        "Post": "Інженер"
+      }
+    },
+    {
+      "ModificationStatus": 0,
+      "Token": 10468,
+      "AdditionalFields": [],
+      "CardCode": "3800E49C36",
+      "Department": {
+        "Token": 1618,
+        "Name": "Офіс"
+      },
+      "Device": {
+        "Token": 1363,
+        "Name": "Прохідна"
+      },
+      "EventFilterPassed": true,
+      "FaceMaskDetected": false,
+      "IconToken": 2423,
+      "Issued": "/Date(1628054412000)/",
+      "Message": {
+        "Token": 218,
+        "Name": "Вхід здійснено",
+        "AccessGranted": true,
+        "Code": 98,
+        "Color": 0
+      },
+      "PhotoToken": 2422,
+      "PhotoverificationFiltersPassed": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "Sender": {
+        "Token": 1384,
+        "Name": "1 - вхід"
+      },
+      "Temperature": 0,
+      "User": {
+        "Token": 2415,
+        "Name": "Зінченко Володимир",
+        "AdditionalFields": [],
+        "EmployeeNumber": "6",
+        "Post": "Інженер"
+      }
+    },
+    {
+      "ModificationStatus": 0,
+      "Token": 10469,
+      "AdditionalFields": [],
+      "CardCode": "32002017A0",
+      "Department": {
+        "Token": 2521,
+        "Name": "Цех"
+      },
+      "Device": {
+        "Token": 1363,
+        "Name": "Прохідна"
+      },
+      "EventFilterPassed": true,
+      "FaceMaskDetected": false,
+      "IconToken": 2646,
+      "Issued": "/Date(1628054424000)/",
+      "Message": {
+        "Token": 216,
+        "Name": "Вхід дозволений",
+        "AccessGranted": true,
+        "Code": 8,
+        "Color": 255
+      },
+      "PhotoToken": 2645,
+      "PhotoverificationFiltersPassed": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "Sender": {
+        "Token": 1384,
+        "Name": "1 - вхід"
+      },
+      "Temperature": 0,
+      "User": {
+        "Token": 2641,
+        "Name": "Шимко Віктор",
+        "AdditionalFields": [],
+        "EmployeeNumber": "17",
+        "Post": "Слюсар"
+      }
+    },
+    {
+      "ModificationStatus": 0,
+      "Token": 10470,
+      "AdditionalFields": [],
+      "CardCode": "3300C861A5",
+      "Department": {
+        "Token": 2521,
+        "Name": "Цех"
+      },
+      "Device": {
+        "Token": 1363,
+        "Name": "Прохідна"
+      },
+      "EventFilterPassed": true,
+      "FaceMaskDetected": false,
+      "IconToken": 2559,
+      "Issued": "/Date(1628054426000)/",
+      "Message": {
+        "Token": 216,
+        "Name": "Вхід дозволений",
+        "AccessGranted": true,
+        "Code": 8,
+        "Color": 255
+      },
+      "PhotoToken": 2558,
+      "PhotoverificationFiltersPassed": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "Sender": {
+        "Token": 1384,
+        "Name": "1 - вхід"
+      },
+      "Temperature": 0,
+      "User": {
+        "Token": 2554,
+        "Name": "Яхно Станіслав",
+        "AdditionalFields": [],
+        "EmployeeNumber": "15",
+        "Post": "Слюсар"
+      }
+    },
+    {
+      "ModificationStatus": 0,
+      "Token": 10471,
+      "AdditionalFields": [],
+      "CardCode": "3300C861A5",
+      "Department": {
+        "Token": 2521,
+        "Name": "Цех"
+      },
+      "Device": {
+        "Token": 1363,
+        "Name": "Прохідна"
+      },
+      "EventFilterPassed": true,
+      "FaceMaskDetected": false,
+      "IconToken": 2559,
+      "Issued": "/Date(1628054435000)/",
+      "Message": {
+        "Token": 218,
+        "Name": "Вхід здійснено",
+        "AccessGranted": true,
+        "Code": 98,
+        "Color": 0
+      },
+      "PhotoToken": 2558,
+      "PhotoverificationFiltersPassed": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "Sender": {
+        "Token": 1384,
+        "Name": "1 - вхід"
+      },
+      "Temperature": 0,
+      "User": {
+        "Token": 2554,
+        "Name": "Яхно Станіслав",
+        "AdditionalFields": [],
+        "EmployeeNumber": "15",
+        "Post": "Слюсар"
+      }
+    },
+    {
+      "ModificationStatus": 0,
+      "Token": 10472,
+      "AdditionalFields": [],
+      "CardCode": "3800EC9B7C",
+      "Department": {
+        "Token": 2521,
+        "Name": "Цех"
+      },
+      "Device": {
+        "Token": 1363,
+        "Name": "Прохідна"
+      },
+      "EventFilterPassed": true,
+      "FaceMaskDetected": false,
+      "IconToken": 2919,
+      "Issued": "/Date(1628056200000)/",
+      "Message": {
+        "Token": 216,
+        "Name": "Вхід дозволений",
+        "AccessGranted": true,
+        "Code": 8,
+        "Color": 255
+      },
+      "PhotoToken": 2918,
+      "PhotoverificationFiltersPassed": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "Sender": {
+        "Token": 1384,
+        "Name": "1 - вхід"
+      },
+      "Temperature": 0,
+      "User": {
+        "Token": 2914,
+        "Name": "Горнакова Татьяна ",
+        "AdditionalFields": [],
+        "EmployeeNumber": "27",
+        "Post": "Прибиральник"
+      }
+    },
+    {
+      "ModificationStatus": 0,
+      "Token": 10473,
+      "AdditionalFields": [],
+      "CardCode": "3800EC9B7C",
+      "Department": {
+        "Token": 2521,
+        "Name": "Цех"
+      },
+      "Device": {
+        "Token": 1363,
+        "Name": "Прохідна"
+      },
+      "EventFilterPassed": true,
+      "FaceMaskDetected": false,
+      "IconToken": 2919,
+      "Issued": "/Date(1628056210000)/",
+      "Message": {
+        "Token": 218,
+        "Name": "Вхід здійснено",
+        "AccessGranted": true,
+        "Code": 98,
+        "Color": 0
+      },
+      "PhotoToken": 2918,
+      "PhotoverificationFiltersPassed": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "Sender": {
+        "Token": 1384,
+        "Name": "1 - вхід"
+      },
+      "Temperature": 0,
+      "User": {
+        "Token": 2914,
+        "Name": "Горнакова Татьяна ",
+        "AdditionalFields": [],
+        "EmployeeNumber": "27",
+        "Post": "Прибиральник"
+      }
+    },
+    {
+      "ModificationStatus": 0,
+      "Token": 10474,
+      "AdditionalFields": [],
+      "CardCode": "3800E528E0",
+      "Department": {
+        "Token": 1618,
+        "Name": "Офіс"
+      },
+      "Device": {
+        "Token": 1363,
+        "Name": "Прохідна"
+      },
+      "EventFilterPassed": true,
+      "FaceMaskDetected": false,
+      "IconToken": 2501,
+      "Issued": "/Date(1628056327000)/",
+      "Message": {
+        "Token": 216,
+        "Name": "Вхід дозволений",
+        "AccessGranted": true,
+        "Code": 8,
+        "Color": 255
+      },
+      "PhotoToken": 2500,
+      "PhotoverificationFiltersPassed": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "Sender": {
+        "Token": 1384,
+        "Name": "1 - вхід"
+      },
+      "Temperature": 0,
+      "User": {
+        "Token": 2493,
+        "Name": "Якименко Віталій",
+        "AdditionalFields": [],
+        "EmployeeNumber": "4",
+        "Post": "Інженер"
+      }
+    },
+    {
+      "ModificationStatus": 0,
+      "Token": 10475,
+      "AdditionalFields": [],
+      "CardCode": "3800EE5017",
+      "Department": {
+        "Token": 1618,
+        "Name": "Офіс"
+      },
+      "Device": {
+        "Token": 1363,
+        "Name": "Прохідна"
+      },
+      "EventFilterPassed": true,
+      "FaceMaskDetected": false,
+      "IconToken": 2481,
+      "Issued": "/Date(1628056329000)/",
+      "Message": {
+        "Token": 216,
+        "Name": "Вхід дозволений",
+        "AccessGranted": true,
+        "Code": 8,
+        "Color": 255
+      },
+      "PhotoToken": 2480,
+      "PhotoverificationFiltersPassed": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "Sender": {
+        "Token": 1384,
+        "Name": "1 - вхід"
+      },
+      "Temperature": 0,
+      "User": {
+        "Token": 2473,
+        "Name": "Голиборода Вероніка",
+        "AdditionalFields": [],
+        "EmployeeNumber": "2",
+        "Post": "Технолог"
+      }
+    },
+    {
+      "ModificationStatus": 0,
+      "Token": 10476,
+      "AdditionalFields": [],
+      "CardCode": "3800EE5017",
+      "Department": {
+        "Token": 1618,
+        "Name": "Офіс"
+      },
+      "Device": {
+        "Token": 1363,
+        "Name": "Прохідна"
+      },
+      "EventFilterPassed": true,
+      "FaceMaskDetected": false,
+      "IconToken": 2481,
+      "Issued": "/Date(1628056338000)/",
+      "Message": {
+        "Token": 218,
+        "Name": "Вхід здійснено",
+        "AccessGranted": true,
+        "Code": 98,
+        "Color": 0
+      },
+      "PhotoToken": 2480,
+      "PhotoverificationFiltersPassed": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "Sender": {
+        "Token": 1384,
+        "Name": "1 - вхід"
+      },
+      "Temperature": 0,
+      "User": {
+        "Token": 2473,
+        "Name": "Голиборода Вероніка",
+        "AdditionalFields": [],
+        "EmployeeNumber": "2",
+        "Post": "Технолог"
+      }
+    },
+    {
+      "ModificationStatus": 0,
+      "Token": 10477,
+      "AdditionalFields": [],
+      "CardCode": "2A99B3B80B",
+      "Department": {
+        "Token": 1618,
+        "Name": "Офіс"
+      },
+      "Device": {
+        "Token": 1363,
+        "Name": "Прохідна"
+      },
+      "EventFilterPassed": true,
+      "FaceMaskDetected": false,
+      "IconToken": 1642,
+      "Issued": "/Date(1628056359000)/",
+      "Message": {
+        "Token": 216,
+        "Name": "Вхід дозволений",
+        "AccessGranted": true,
+        "Code": 8,
+        "Color": 255
+      },
+      "PhotoToken": 1641,
+      "PhotoverificationFiltersPassed": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "Sender": {
+        "Token": 1384,
+        "Name": "1 - вхід"
+      },
+      "Temperature": 0,
+      "User": {
+        "Token": 1634,
+        "Name": "Кузюк Данило ",
+        "AdditionalFields": [],
+        "EmployeeNumber": "132",
+        "Post": "Технік"
+      }
+    },
+    {
+      "ModificationStatus": 0,
+      "Token": 10478,
+      "AdditionalFields": [],
+      "CardCode": "2A99B3B80B",
+      "Department": {
+        "Token": 1618,
+        "Name": "Офіс"
+      },
+      "Device": {
+        "Token": 1363,
+        "Name": "Прохідна"
+      },
+      "EventFilterPassed": true,
+      "FaceMaskDetected": false,
+      "IconToken": 1642,
+      "Issued": "/Date(1628056368000)/",
+      "Message": {
+        "Token": 218,
+        "Name": "Вхід здійснено",
+        "AccessGranted": true,
+        "Code": 98,
+        "Color": 0
+      },
+      "PhotoToken": 1641,
+      "PhotoverificationFiltersPassed": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "Sender": {
+        "Token": 1384,
+        "Name": "1 - вхід"
+      },
+      "Temperature": 0,
+      "User": {
+        "Token": 1634,
+        "Name": "Кузюк Данило ",
+        "AdditionalFields": [],
+        "EmployeeNumber": "132",
+        "Post": "Технік"
+      }
+    },
+    {
+      "ModificationStatus": 0,
+      "Token": 10479,
+      "AdditionalFields": [],
+      "CardCode": "32004929C5",
+      "Department": {
+        "Token": 1618,
+        "Name": "Офіс"
+      },
+      "Device": {
+        "Token": 1363,
+        "Name": "Прохідна"
+      },
+      "EventFilterPassed": true,
+      "FaceMaskDetected": false,
+      "IconToken": 2383,
+      "Issued": "/Date(1628056463000)/",
+      "Message": {
+        "Token": 216,
+        "Name": "Вхід дозволений",
+        "AccessGranted": true,
+        "Code": 8,
+        "Color": 255
+      },
+      "PhotoToken": 2382,
+      "PhotoverificationFiltersPassed": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "Sender": {
+        "Token": 1384,
+        "Name": "1 - вхід"
+      },
+      "Temperature": 0,
+      "User": {
+        "Token": 2375,
+        "Name": "Якименко Ольга",
+        "AdditionalFields": [],
+        "EmployeeNumber": "2",
+        "Post": "Бухгалтер"
+      }
+    },
+    {
+      "ModificationStatus": 0,
+      "Token": 10480,
+      "AdditionalFields": [],
+      "CardCode": "",
+      "Department": {
+        "Token": 0,
+        "Name": ""
+      },
+      "Device": {
+        "Token": 1363,
+        "Name": "Прохідна"
+      },
+      "EventFilterPassed": true,
+      "FaceMaskDetected": false,
+      "IconToken": 0,
+      "Issued": "/Date(1628056472000)/",
+      "Message": {
+        "Token": 235,
+        "Name": "Доступ дозволено: натиснута кнопка запиту на прохід",
+        "AccessGranted": true,
+        "Code": 34,
+        "Color": 255
+      },
+      "PhotoToken": 0,
+      "PhotoverificationFiltersPassed": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "Sender": {
+        "Token": 1385,
+        "Name": "1 - вихід"
+      },
+      "Temperature": 0,
+      "User": {
+        "Token": 0,
+        "Name": "",
+        "AdditionalFields": [],
+        "EmployeeNumber": "",
+        "Post": ""
+      }
+    },
+    {
+      "ModificationStatus": 0,
+      "Token": 10481,
+      "AdditionalFields": [],
+      "CardCode": "32004929C5",
+      "Department": {
+        "Token": 1618,
+        "Name": "Офіс"
+      },
+      "Device": {
+        "Token": 1363,
+        "Name": "Прохідна"
+      },
+      "EventFilterPassed": true,
+      "FaceMaskDetected": false,
+      "IconToken": 2383,
+      "Issued": "/Date(1628056472000)/",
+      "Message": {
+        "Token": 218,
+        "Name": "Вхід здійснено",
+        "AccessGranted": true,
+        "Code": 98,
+        "Color": 0
+      },
+      "PhotoToken": 2382,
+      "PhotoverificationFiltersPassed": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "Sender": {
+        "Token": 1384,
+        "Name": "1 - вхід"
+      },
+      "Temperature": 0,
+      "User": {
+        "Token": 2375,
+        "Name": "Якименко Ольга",
+        "AdditionalFields": [],
+        "EmployeeNumber": "2",
+        "Post": "Бухгалтер"
+      }
+    },
+    {
+      "ModificationStatus": 0,
+      "Token": 10482,
+      "AdditionalFields": [],
+      "CardCode": "",
+      "Department": {
+        "Token": 0,
+        "Name": ""
+      },
+      "Device": {
+        "Token": 1363,
+        "Name": "Прохідна"
+      },
+      "EventFilterPassed": true,
+      "FaceMaskDetected": false,
+      "IconToken": 0,
+      "Issued": "/Date(1628056475000)/",
+      "Message": {
+        "Token": 235,
+        "Name": "Доступ дозволено: натиснута кнопка запиту на прохід",
+        "AccessGranted": true,
+        "Code": 34,
+        "Color": 255
+      },
+      "PhotoToken": 0,
+      "PhotoverificationFiltersPassed": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "Sender": {
+        "Token": 1385,
+        "Name": "1 - вихід"
+      },
+      "Temperature": 0,
+      "User": {
+        "Token": 0,
+        "Name": "",
+        "AdditionalFields": [],
+        "EmployeeNumber": "",
+        "Post": ""
+      }
+    },
+    {
+      "ModificationStatus": 0,
+      "Token": 10483,
+      "AdditionalFields": [],
+      "CardCode": "",
+      "Department": {
+        "Token": 0,
+        "Name": ""
+      },
+      "Device": {
+        "Token": 1363,
+        "Name": "Прохідна"
+      },
+      "EventFilterPassed": true,
+      "FaceMaskDetected": false,
+      "IconToken": 0,
+      "Issued": "/Date(1628056475000)/",
+      "Message": {
+        "Token": 235,
+        "Name": "Доступ дозволено: натиснута кнопка запиту на прохід",
+        "AccessGranted": true,
+        "Code": 34,
+        "Color": 255
+      },
+      "PhotoToken": 0,
+      "PhotoverificationFiltersPassed": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "Sender": {
+        "Token": 1385,
+        "Name": "1 - вихід"
+      },
+      "Temperature": 0,
+      "User": {
+        "Token": 0,
+        "Name": "",
+        "AdditionalFields": [],
+        "EmployeeNumber": "",
+        "Post": ""
+      }
+    },
+    {
+      "ModificationStatus": 0,
+      "Token": 10484,
+      "AdditionalFields": [],
+      "CardCode": "330088FD61",
+      "Department": {
+        "Token": 2521,
+        "Name": "Цех"
+      },
+      "Device": {
+        "Token": 1363,
+        "Name": "Прохідна"
+      },
+      "EventFilterPassed": true,
+      "FaceMaskDetected": false,
+      "IconToken": 3164,
+      "Issued": "/Date(1628056900000)/",
+      "Message": {
+        "Token": 217,
+        "Name": "Вихід дозволений",
+        "AccessGranted": true,
+        "Code": 9,
+        "Color": 255
+      },
+      "PhotoToken": 3163,
+      "PhotoverificationFiltersPassed": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "Sender": {
+        "Token": 1385,
+        "Name": "1 - вихід"
+      },
+      "Temperature": 0,
+      "User": {
+        "Token": 3156,
+        "Name": "Сілаков Олексій",
+        "AdditionalFields": [],
+        "EmployeeNumber": "29",
+        "Post": "Охорона"
+      }
+    },
+    {
+      "ModificationStatus": 0,
+      "Token": 10485,
+      "AdditionalFields": [],
+      "CardCode": "330088FD61",
+      "Department": {
+        "Token": 2521,
+        "Name": "Цех"
+      },
+      "Device": {
+        "Token": 1363,
+        "Name": "Прохідна"
+      },
+      "EventFilterPassed": true,
+      "FaceMaskDetected": false,
+      "IconToken": 3164,
+      "Issued": "/Date(1628056909000)/",
+      "Message": {
+        "Token": 219,
+        "Name": "Вихід здійснено",
+        "AccessGranted": true,
+        "Code": 99,
+        "Color": 0
+      },
+      "PhotoToken": 3163,
+      "PhotoverificationFiltersPassed": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "Sender": {
+        "Token": 1385,
+        "Name": "1 - вихід"
+      },
+      "Temperature": 0,
+      "User": {
+        "Token": 3156,
+        "Name": "Сілаков Олексій",
+        "AdditionalFields": [],
+        "EmployeeNumber": "29",
+        "Post": "Охорона"
+      }
+    },
+    {
+      "ModificationStatus": 0,
+      "Token": 10486,
+      "AdditionalFields": [],
+      "CardCode": "3300C89440",
+      "Department": {
+        "Token": 1618,
+        "Name": "Офіс"
+      },
+      "Device": {
+        "Token": 1363,
+        "Name": "Прохідна"
+      },
+      "EventFilterPassed": true,
+      "FaceMaskDetected": false,
+      "IconToken": 2364,
+      "Issued": "/Date(1628057207000)/",
+      "Message": {
+        "Token": 216,
+        "Name": "Вхід дозволений",
+        "AccessGranted": true,
+        "Code": 8,
+        "Color": 255
+      },
+      "PhotoToken": 2363,
+      "PhotoverificationFiltersPassed": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "Sender": {
+        "Token": 1384,
+        "Name": "1 - вхід"
+      },
+      "Temperature": 0,
+      "User": {
+        "Token": 2356,
+        "Name": "Пушкарук Наталія",
+        "AdditionalFields": [],
+        "EmployeeNumber": "5",
+        "Post": "Бухгалтер"
+      }
+    },
+    {
+      "ModificationStatus": 0,
+      "Token": 10487,
+      "AdditionalFields": [],
+      "CardCode": "3800EE68AB",
+      "Department": {
+        "Token": 2521,
+        "Name": "Цех"
+      },
+      "Device": {
+        "Token": 1363,
+        "Name": "Прохідна"
+      },
+      "EventFilterPassed": true,
+      "FaceMaskDetected": false,
+      "IconToken": 2545,
+      "Issued": "/Date(1628057210000)/",
+      "Message": {
+        "Token": 216,
+        "Name": "Вхід дозволений",
+        "AccessGranted": true,
+        "Code": 8,
+        "Color": 255
+      },
+      "PhotoToken": 2544,
+      "PhotoverificationFiltersPassed": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "Sender": {
+        "Token": 1384,
+        "Name": "1 - вхід"
+      },
+      "Temperature": 0,
+      "User": {
+        "Token": 2540,
+        "Name": "Голиборода Олег",
+        "AdditionalFields": [],
+        "EmployeeNumber": "17",
+        "Post": "Зварювальник"
+      }
+    },
+    {
+      "ModificationStatus": 0,
+      "Token": 10488,
+      "AdditionalFields": [],
+      "CardCode": "3800EE68AB",
+      "Department": {
+        "Token": 2521,
+        "Name": "Цех"
+      },
+      "Device": {
+        "Token": 1363,
+        "Name": "Прохідна"
+      },
+      "EventFilterPassed": true,
+      "FaceMaskDetected": false,
+      "IconToken": 2545,
+      "Issued": "/Date(1628057219000)/",
+      "Message": {
+        "Token": 218,
+        "Name": "Вхід здійснено",
+        "AccessGranted": true,
+        "Code": 98,
+        "Color": 0
+      },
+      "PhotoToken": 2544,
+      "PhotoverificationFiltersPassed": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "Sender": {
+        "Token": 1384,
+        "Name": "1 - вхід"
+      },
+      "Temperature": 0,
+      "User": {
+        "Token": 2540,
+        "Name": "Голиборода Олег",
+        "AdditionalFields": [],
+        "EmployeeNumber": "17",
+        "Post": "Зварювальник"
+      }
+    },
+    {
+      "ModificationStatus": 0,
+      "Token": 10489,
+      "AdditionalFields": [],
+      "CardCode": "2A99B3B80F",
+      "Department": {
+        "Token": 1618,
+        "Name": "Офіс"
+      },
+      "Device": {
+        "Token": 1363,
+        "Name": "Прохідна"
+      },
+      "EventFilterPassed": true,
+      "FaceMaskDetected": false,
+      "IconToken": 2442,
+      "Issued": "/Date(1628057222000)/",
+      "Message": {
+        "Token": 216,
+        "Name": "Вхід дозволений",
+        "AccessGranted": true,
+        "Code": 8,
+        "Color": 255
+      },
+      "PhotoToken": 2441,
+      "PhotoverificationFiltersPassed": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "Sender": {
+        "Token": 1384,
+        "Name": "1 - вхід"
+      },
+      "Temperature": 0,
+      "User": {
+        "Token": 2434,
+        "Name": "Голик Вадим",
+        "AdditionalFields": [],
+        "EmployeeNumber": "14",
+        "Post": "Інженер"
+      }
+    },
+    {
+      "ModificationStatus": 0,
+      "Token": 10490,
+      "AdditionalFields": [],
+      "CardCode": "2A99B3B80F",
+      "Department": {
+        "Token": 1618,
+        "Name": "Офіс"
+      },
+      "Device": {
+        "Token": 1363,
+        "Name": "Прохідна"
+      },
+      "EventFilterPassed": true,
+      "FaceMaskDetected": false,
+      "IconToken": 2442,
+      "Issued": "/Date(1628057231000)/",
+      "Message": {
+        "Token": 218,
+        "Name": "Вхід здійснено",
+        "AccessGranted": true,
+        "Code": 98,
+        "Color": 0
+      },
+      "PhotoToken": 2441,
+      "PhotoverificationFiltersPassed": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "Sender": {
+        "Token": 1384,
+        "Name": "1 - вхід"
+      },
+      "Temperature": 0,
+      "User": {
+        "Token": 2434,
+        "Name": "Голик Вадим",
+        "AdditionalFields": [],
+        "EmployeeNumber": "14",
+        "Post": "Інженер"
+      }
+    },
+    {
+      "ModificationStatus": 0,
+      "Token": 10491,
+      "AdditionalFields": [],
+      "CardCode": "33008DFF72",
+      "Department": {
+        "Token": 1618,
+        "Name": "Офіс"
+      },
+      "Device": {
+        "Token": 1363,
+        "Name": "Прохідна"
+      },
+      "EventFilterPassed": true,
+      "FaceMaskDetected": false,
+      "IconToken": 1991,
+      "Issued": "/Date(1628057267000)/",
+      "Message": {
+        "Token": 216,
+        "Name": "Вхід дозволений",
+        "AccessGranted": true,
+        "Code": 8,
+        "Color": 255
+      },
+      "PhotoToken": 1990,
+      "PhotoverificationFiltersPassed": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "Sender": {
+        "Token": 1384,
+        "Name": "1 - вхід"
+      },
+      "Temperature": 0,
+      "User": {
+        "Token": 1982,
+        "Name": "Кузюк Ірина",
+        "AdditionalFields": [],
+        "EmployeeNumber": "1",
+        "Post": "PR"
+      }
+    },
+    {
+      "ModificationStatus": 0,
+      "Token": 10492,
+      "AdditionalFields": [],
+      "CardCode": "33008DFF72",
+      "Department": {
+        "Token": 1618,
+        "Name": "Офіс"
+      },
+      "Device": {
+        "Token": 1363,
+        "Name": "Прохідна"
+      },
+      "EventFilterPassed": true,
+      "FaceMaskDetected": false,
+      "IconToken": 1991,
+      "Issued": "/Date(1628057276000)/",
+      "Message": {
+        "Token": 218,
+        "Name": "Вхід здійснено",
+        "AccessGranted": true,
+        "Code": 98,
+        "Color": 0
+      },
+      "PhotoToken": 1990,
+      "PhotoverificationFiltersPassed": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "Sender": {
+        "Token": 1384,
+        "Name": "1 - вхід"
+      },
+      "Temperature": 0,
+      "User": {
+        "Token": 1982,
+        "Name": "Кузюк Ірина",
+        "AdditionalFields": [],
+        "EmployeeNumber": "1",
+        "Post": "PR"
+      }
+    },
+    {
+      "ModificationStatus": 0,
+      "Token": 10493,
+      "AdditionalFields": [],
+      "CardCode": "3800EC7539",
+      "Department": {
+        "Token": 1618,
+        "Name": "Офіс"
+      },
+      "Device": {
+        "Token": 1363,
+        "Name": "Прохідна"
+      },
+      "EventFilterPassed": true,
+      "FaceMaskDetected": false,
+      "IconToken": 2113,
+      "Issued": "/Date(1628057276000)/",
+      "Message": {
+        "Token": 216,
+        "Name": "Вхід дозволений",
+        "AccessGranted": true,
+        "Code": 8,
+        "Color": 255
+      },
+      "PhotoToken": 2112,
+      "PhotoverificationFiltersPassed": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "Sender": {
+        "Token": 1384,
+        "Name": "1 - вхід"
+      },
+      "Temperature": 0,
+      "User": {
+        "Token": 2105,
+        "Name": "Кузюк Олександр ",
+        "AdditionalFields": [],
+        "EmployeeNumber": "3",
+        "Post": "Адмін"
+      }
+    },
+    {
+      "ModificationStatus": 0,
+      "Token": 10494,
+      "AdditionalFields": [],
+      "CardCode": "3800EC7539",
+      "Department": {
+        "Token": 1618,
+        "Name": "Офіс"
+      },
+      "Device": {
+        "Token": 1363,
+        "Name": "Прохідна"
+      },
+      "EventFilterPassed": true,
+      "FaceMaskDetected": false,
+      "IconToken": 2113,
+      "Issued": "/Date(1628057286000)/",
+      "Message": {
+        "Token": 218,
+        "Name": "Вхід здійснено",
+        "AccessGranted": true,
+        "Code": 98,
+        "Color": 0
+      },
+      "PhotoToken": 2112,
+      "PhotoverificationFiltersPassed": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "Sender": {
+        "Token": 1384,
+        "Name": "1 - вхід"
+      },
+      "Temperature": 0,
+      "User": {
+        "Token": 2105,
+        "Name": "Кузюк Олександр ",
+        "AdditionalFields": [],
+        "EmployeeNumber": "3",
+        "Post": "Адмін"
+      }
+    },
+    {
+      "ModificationStatus": 0,
+      "Token": 10495,
+      "AdditionalFields": [],
+      "CardCode": "32004929C5",
+      "Department": {
+        "Token": 1618,
+        "Name": "Офіс"
+      },
+      "Device": {
+        "Token": 1363,
+        "Name": "Прохідна"
+      },
+      "EventFilterPassed": true,
+      "FaceMaskDetected": false,
+      "IconToken": 2383,
+      "Issued": "/Date(1628058358000)/",
+      "Message": {
+        "Token": 217,
+        "Name": "Вихід дозволений",
+        "AccessGranted": true,
+        "Code": 9,
+        "Color": 255
+      },
+      "PhotoToken": 2382,
+      "PhotoverificationFiltersPassed": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "Sender": {
+        "Token": 1385,
+        "Name": "1 - вихід"
+      },
+      "Temperature": 0,
+      "User": {
+        "Token": 2375,
+        "Name": "Якименко Ольга",
+        "AdditionalFields": [],
+        "EmployeeNumber": "2",
+        "Post": "Бухгалтер"
+      }
+    },
+    {
+      "ModificationStatus": 0,
+      "Token": 10496,
+      "AdditionalFields": [],
+      "CardCode": "32004929C5",
+      "Department": {
+        "Token": 1618,
+        "Name": "Офіс"
+      },
+      "Device": {
+        "Token": 1363,
+        "Name": "Прохідна"
+      },
+      "EventFilterPassed": true,
+      "FaceMaskDetected": false,
+      "IconToken": 2383,
+      "Issued": "/Date(1628058367000)/",
+      "Message": {
+        "Token": 219,
+        "Name": "Вихід здійснено",
+        "AccessGranted": true,
+        "Code": 99,
+        "Color": 0
+      },
+      "PhotoToken": 2382,
+      "PhotoverificationFiltersPassed": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "Sender": {
+        "Token": 1385,
+        "Name": "1 - вихід"
+      },
+      "Temperature": 0,
+      "User": {
+        "Token": 2375,
+        "Name": "Якименко Ольга",
+        "AdditionalFields": [],
+        "EmployeeNumber": "2",
+        "Post": "Бухгалтер"
+      }
+    },
+    {
+      "ModificationStatus": 0,
+      "Token": 10497,
+      "AdditionalFields": [],
+      "CardCode": "32004929C5",
+      "Department": {
+        "Token": 1618,
+        "Name": "Офіс"
+      },
+      "Device": {
+        "Token": 1363,
+        "Name": "Прохідна"
+      },
+      "EventFilterPassed": true,
+      "FaceMaskDetected": false,
+      "IconToken": 2383,
+      "Issued": "/Date(1628058407000)/",
+      "Message": {
+        "Token": 216,
+        "Name": "Вхід дозволений",
+        "AccessGranted": true,
+        "Code": 8,
+        "Color": 255
+      },
+      "PhotoToken": 2382,
+      "PhotoverificationFiltersPassed": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "Sender": {
+        "Token": 1384,
+        "Name": "1 - вхід"
+      },
+      "Temperature": 0,
+      "User": {
+        "Token": 2375,
+        "Name": "Якименко Ольга",
+        "AdditionalFields": [],
+        "EmployeeNumber": "2",
+        "Post": "Бухгалтер"
+      }
+    },
+    {
+      "ModificationStatus": 0,
+      "Token": 10498,
+      "AdditionalFields": [],
+      "CardCode": "32004929C5",
+      "Department": {
+        "Token": 1618,
+        "Name": "Офіс"
+      },
+      "Device": {
+        "Token": 1363,
+        "Name": "Прохідна"
+      },
+      "EventFilterPassed": true,
+      "FaceMaskDetected": false,
+      "IconToken": 2383,
+      "Issued": "/Date(1628058416000)/",
+      "Message": {
+        "Token": 218,
+        "Name": "Вхід здійснено",
+        "AccessGranted": true,
+        "Code": 98,
+        "Color": 0
+      },
+      "PhotoToken": 2382,
+      "PhotoverificationFiltersPassed": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "Sender": {
+        "Token": 1384,
+        "Name": "1 - вхід"
+      },
+      "Temperature": 0,
+      "User": {
+        "Token": 2375,
+        "Name": "Якименко Ольга",
+        "AdditionalFields": [],
+        "EmployeeNumber": "2",
+        "Post": "Бухгалтер"
+      }
+    },
+    {
+      "ModificationStatus": 0,
+      "Token": 10499,
+      "AdditionalFields": [],
+      "CardCode": "3800E528E0",
+      "Department": {
+        "Token": 1618,
+        "Name": "Офіс"
+      },
+      "Device": {
+        "Token": 1363,
+        "Name": "Прохідна"
+      },
+      "EventFilterPassed": true,
+      "FaceMaskDetected": false,
+      "IconToken": 2501,
+      "Issued": "/Date(1628062723000)/",
+      "Message": {
+        "Token": 217,
+        "Name": "Вихід дозволений",
+        "AccessGranted": true,
+        "Code": 9,
+        "Color": 255
+      },
+      "PhotoToken": 2500,
+      "PhotoverificationFiltersPassed": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "Sender": {
+        "Token": 1385,
+        "Name": "1 - вихід"
+      },
+      "Temperature": 0,
+      "User": {
+        "Token": 2493,
+        "Name": "Якименко Віталій",
+        "AdditionalFields": [],
+        "EmployeeNumber": "4",
+        "Post": "Інженер"
+      }
+    },
+    {
+      "ModificationStatus": 0,
+      "Token": 10500,
+      "AdditionalFields": [],
+      "CardCode": "3800E528E0",
+      "Department": {
+        "Token": 1618,
+        "Name": "Офіс"
+      },
+      "Device": {
+        "Token": 1363,
+        "Name": "Прохідна"
+      },
+      "EventFilterPassed": true,
+      "FaceMaskDetected": false,
+      "IconToken": 2501,
+      "Issued": "/Date(1628062732000)/",
+      "Message": {
+        "Token": 219,
+        "Name": "Вихід здійснено",
+        "AccessGranted": true,
+        "Code": 99,
+        "Color": 0
+      },
+      "PhotoToken": 2500,
+      "PhotoverificationFiltersPassed": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "Sender": {
+        "Token": 1385,
+        "Name": "1 - вихід"
+      },
+      "Temperature": 0,
+      "User": {
+        "Token": 2493,
+        "Name": "Якименко Віталій",
+        "AdditionalFields": [],
+        "EmployeeNumber": "4",
+        "Post": "Інженер"
+      }
+    },
+    {
+      "ModificationStatus": 0,
+      "Token": 10501,
+      "AdditionalFields": [],
+      "CardCode": "3800E528E0",
+      "Department": {
+        "Token": 1618,
+        "Name": "Офіс"
+      },
+      "Device": {
+        "Token": 1363,
+        "Name": "Прохідна"
+      },
+      "EventFilterPassed": true,
+      "FaceMaskDetected": false,
+      "IconToken": 2501,
+      "Issued": "/Date(1628062735000)/",
+      "Message": {
+        "Token": 216,
+        "Name": "Вхід дозволений",
+        "AccessGranted": true,
+        "Code": 8,
+        "Color": 255
+      },
+      "PhotoToken": 2500,
+      "PhotoverificationFiltersPassed": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "Sender": {
+        "Token": 1384,
+        "Name": "1 - вхід"
+      },
+      "Temperature": 0,
+      "User": {
+        "Token": 2493,
+        "Name": "Якименко Віталій",
+        "AdditionalFields": [],
+        "EmployeeNumber": "4",
+        "Post": "Інженер"
+      }
+    },
+    {
+      "ModificationStatus": 0,
+      "Token": 10502,
+      "AdditionalFields": [],
+      "CardCode": "3800E528E0",
+      "Department": {
+        "Token": 1618,
+        "Name": "Офіс"
+      },
+      "Device": {
+        "Token": 1363,
+        "Name": "Прохідна"
+      },
+      "EventFilterPassed": true,
+      "FaceMaskDetected": false,
+      "IconToken": 2501,
+      "Issued": "/Date(1628062744000)/",
+      "Message": {
+        "Token": 218,
+        "Name": "Вхід здійснено",
+        "AccessGranted": true,
+        "Code": 98,
+        "Color": 0
+      },
+      "PhotoToken": 2500,
+      "PhotoverificationFiltersPassed": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "Sender": {
+        "Token": 1384,
+        "Name": "1 - вхід"
+      },
+      "Temperature": 0,
+      "User": {
+        "Token": 2493,
+        "Name": "Якименко Віталій",
+        "AdditionalFields": [],
+        "EmployeeNumber": "4",
+        "Post": "Інженер"
+      }
+    },
+    {
+      "ModificationStatus": 0,
+      "Token": 10503,
+      "AdditionalFields": [],
+      "CardCode": "320048BE14",
+      "Department": {
+        "Token": 2521,
+        "Name": "Цех"
+      },
+      "Device": {
+        "Token": 1363,
+        "Name": "Прохідна"
+      },
+      "EventFilterPassed": true,
+      "FaceMaskDetected": false,
+      "IconToken": 2674,
+      "Issued": "/Date(1628066988000)/",
+      "Message": {
+        "Token": 217,
+        "Name": "Вихід дозволений",
+        "AccessGranted": true,
+        "Code": 9,
+        "Color": 255
+      },
+      "PhotoToken": 2673,
+      "PhotoverificationFiltersPassed": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "Sender": {
+        "Token": 1385,
+        "Name": "1 - вихід"
+      },
+      "Temperature": 0,
+      "User": {
+        "Token": 2669,
+        "Name": "Трегубенко Сергій",
+        "AdditionalFields": [],
+        "EmployeeNumber": "17",
+        "Post": "Слюсар"
+      }
+    },
+    {
+      "ModificationStatus": 0,
+      "Token": 10504,
+      "AdditionalFields": [],
+      "CardCode": "320048BE14",
+      "Department": {
+        "Token": 2521,
+        "Name": "Цех"
+      },
+      "Device": {
+        "Token": 1363,
+        "Name": "Прохідна"
+      },
+      "EventFilterPassed": true,
+      "FaceMaskDetected": false,
+      "IconToken": 2674,
+      "Issued": "/Date(1628066997000)/",
+      "Message": {
+        "Token": 219,
+        "Name": "Вихід здійснено",
+        "AccessGranted": true,
+        "Code": 99,
+        "Color": 0
+      },
+      "PhotoToken": 2673,
+      "PhotoverificationFiltersPassed": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "Sender": {
+        "Token": 1385,
+        "Name": "1 - вихід"
+      },
+      "Temperature": 0,
+      "User": {
+        "Token": 2669,
+        "Name": "Трегубенко Сергій",
+        "AdditionalFields": [],
+        "EmployeeNumber": "17",
+        "Post": "Слюсар"
+      }
+    },
+    {
+      "ModificationStatus": 0,
+      "Token": 10505,
+      "AdditionalFields": [],
+      "CardCode": "3200485719",
+      "Department": {
+        "Token": 2521,
+        "Name": "Цех"
+      },
+      "Device": {
+        "Token": 1363,
+        "Name": "Прохідна"
+      },
+      "EventFilterPassed": true,
+      "FaceMaskDetected": false,
+      "IconToken": 2618,
+      "Issued": "/Date(1628068350000)/",
+      "Message": {
+        "Token": 217,
+        "Name": "Вихід дозволений",
+        "AccessGranted": true,
+        "Code": 9,
+        "Color": 255
+      },
+      "PhotoToken": 2617,
+      "PhotoverificationFiltersPassed": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "Sender": {
+        "Token": 1385,
+        "Name": "1 - вихід"
+      },
+      "Temperature": 0,
+      "User": {
+        "Token": 2613,
+        "Name": "Щербина Миколай",
+        "AdditionalFields": [],
+        "EmployeeNumber": "9",
+        "Post": "Брегадир"
+      }
+    },
+    {
+      "ModificationStatus": 0,
+      "Token": 10506,
+      "AdditionalFields": [],
+      "CardCode": "3200485719",
+      "Department": {
+        "Token": 2521,
+        "Name": "Цех"
+      },
+      "Device": {
+        "Token": 1363,
+        "Name": "Прохідна"
+      },
+      "EventFilterPassed": true,
+      "FaceMaskDetected": false,
+      "IconToken": 2618,
+      "Issued": "/Date(1628068359000)/",
+      "Message": {
+        "Token": 219,
+        "Name": "Вихід здійснено",
+        "AccessGranted": true,
+        "Code": 99,
+        "Color": 0
+      },
+      "PhotoToken": 2617,
+      "PhotoverificationFiltersPassed": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "Sender": {
+        "Token": 1385,
+        "Name": "1 - вихід"
+      },
+      "Temperature": 0,
+      "User": {
+        "Token": 2613,
+        "Name": "Щербина Миколай",
+        "AdditionalFields": [],
+        "EmployeeNumber": "9",
+        "Post": "Брегадир"
+      }
+    },
+    {
+      "ModificationStatus": 0,
+      "Token": 10507,
+      "AdditionalFields": [],
+      "CardCode": "3800EC9B7C",
+      "Department": {
+        "Token": 2521,
+        "Name": "Цех"
+      },
+      "Device": {
+        "Token": 1363,
+        "Name": "Прохідна"
+      },
+      "EventFilterPassed": true,
+      "FaceMaskDetected": false,
+      "IconToken": 2919,
+      "Issued": "/Date(1628068747000)/",
+      "Message": {
+        "Token": 217,
+        "Name": "Вихід дозволений",
+        "AccessGranted": true,
+        "Code": 9,
+        "Color": 255
+      },
+      "PhotoToken": 2918,
+      "PhotoverificationFiltersPassed": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "Sender": {
+        "Token": 1385,
+        "Name": "1 - вихід"
+      },
+      "Temperature": 0,
+      "User": {
+        "Token": 2914,
+        "Name": "Горнакова Татьяна ",
+        "AdditionalFields": [],
+        "EmployeeNumber": "27",
+        "Post": "Прибиральник"
+      }
+    },
+    {
+      "ModificationStatus": 0,
+      "Token": 10508,
+      "AdditionalFields": [],
+      "CardCode": "3800EC9B7C",
+      "Department": {
+        "Token": 2521,
+        "Name": "Цех"
+      },
+      "Device": {
+        "Token": 1363,
+        "Name": "Прохідна"
+      },
+      "EventFilterPassed": true,
+      "FaceMaskDetected": false,
+      "IconToken": 2919,
+      "Issued": "/Date(1628068756000)/",
+      "Message": {
+        "Token": 219,
+        "Name": "Вихід здійснено",
+        "AccessGranted": true,
+        "Code": 99,
+        "Color": 0
+      },
+      "PhotoToken": 2918,
+      "PhotoverificationFiltersPassed": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "Sender": {
+        "Token": 1385,
+        "Name": "1 - вихід"
+      },
+      "Temperature": 0,
+      "User": {
+        "Token": 2914,
+        "Name": "Горнакова Татьяна ",
+        "AdditionalFields": [],
+        "EmployeeNumber": "27",
+        "Post": "Прибиральник"
+      }
+    },
+    {
+      "ModificationStatus": 0,
+      "Token": 10509,
+      "AdditionalFields": [],
+      "CardCode": "3800EC7539",
+      "Department": {
+        "Token": 1618,
+        "Name": "Офіс"
+      },
+      "Device": {
+        "Token": 1363,
+        "Name": "Прохідна"
+      },
+      "EventFilterPassed": true,
+      "FaceMaskDetected": false,
+      "IconToken": 2113,
+      "Issued": "/Date(1628069658000)/",
+      "Message": {
+        "Token": 217,
+        "Name": "Вихід дозволений",
+        "AccessGranted": true,
+        "Code": 9,
+        "Color": 255
+      },
+      "PhotoToken": 2112,
+      "PhotoverificationFiltersPassed": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "Sender": {
+        "Token": 1385,
+        "Name": "1 - вихід"
+      },
+      "Temperature": 0,
+      "User": {
+        "Token": 2105,
+        "Name": "Кузюк Олександр ",
+        "AdditionalFields": [],
+        "EmployeeNumber": "3",
+        "Post": "Адмін"
+      }
+    },
+    {
+      "ModificationStatus": 0,
+      "Token": 10510,
+      "AdditionalFields": [],
+      "CardCode": "3800EC7539",
+      "Department": {
+        "Token": 1618,
+        "Name": "Офіс"
+      },
+      "Device": {
+        "Token": 1363,
+        "Name": "Прохідна"
+      },
+      "EventFilterPassed": true,
+      "FaceMaskDetected": false,
+      "IconToken": 2113,
+      "Issued": "/Date(1628069667000)/",
+      "Message": {
+        "Token": 219,
+        "Name": "Вихід здійснено",
+        "AccessGranted": true,
+        "Code": 99,
+        "Color": 0
+      },
+      "PhotoToken": 2112,
+      "PhotoverificationFiltersPassed": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "Sender": {
+        "Token": 1385,
+        "Name": "1 - вихід"
+      },
+      "Temperature": 0,
+      "User": {
+        "Token": 2105,
+        "Name": "Кузюк Олександр ",
+        "AdditionalFields": [],
+        "EmployeeNumber": "3",
+        "Post": "Адмін"
+      }
+    },
+    {
+      "ModificationStatus": 0,
+      "Token": 10511,
+      "AdditionalFields": [],
+      "CardCode": "320048BE14",
+      "Department": {
+        "Token": 2521,
+        "Name": "Цех"
+      },
+      "Device": {
+        "Token": 1363,
+        "Name": "Прохідна"
+      },
+      "EventFilterPassed": true,
+      "FaceMaskDetected": false,
+      "IconToken": 2674,
+      "Issued": "/Date(1628069700000)/",
+      "Message": {
+        "Token": 216,
+        "Name": "Вхід дозволений",
+        "AccessGranted": true,
+        "Code": 8,
+        "Color": 255
+      },
+      "PhotoToken": 2673,
+      "PhotoverificationFiltersPassed": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "Sender": {
+        "Token": 1384,
+        "Name": "1 - вхід"
+      },
+      "Temperature": 0,
+      "User": {
+        "Token": 2669,
+        "Name": "Трегубенко Сергій",
+        "AdditionalFields": [],
+        "EmployeeNumber": "17",
+        "Post": "Слюсар"
+      }
+    },
+    {
+      "ModificationStatus": 0,
+      "Token": 10512,
+      "AdditionalFields": [],
+      "CardCode": "320048BE14",
+      "Department": {
+        "Token": 2521,
+        "Name": "Цех"
+      },
+      "Device": {
+        "Token": 1363,
+        "Name": "Прохідна"
+      },
+      "EventFilterPassed": true,
+      "FaceMaskDetected": false,
+      "IconToken": 2674,
+      "Issued": "/Date(1628069710000)/",
+      "Message": {
+        "Token": 218,
+        "Name": "Вхід здійснено",
+        "AccessGranted": true,
+        "Code": 98,
+        "Color": 0
+      },
+      "PhotoToken": 2673,
+      "PhotoverificationFiltersPassed": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "Sender": {
+        "Token": 1384,
+        "Name": "1 - вхід"
+      },
+      "Temperature": 0,
+      "User": {
+        "Token": 2669,
+        "Name": "Трегубенко Сергій",
+        "AdditionalFields": [],
+        "EmployeeNumber": "17",
+        "Post": "Слюсар"
+      }
+    },
+    {
+      "ModificationStatus": 0,
+      "Token": 10513,
+      "AdditionalFields": [],
+      "CardCode": "3800EC7539",
+      "Department": {
+        "Token": 1618,
+        "Name": "Офіс"
+      },
+      "Device": {
+        "Token": 1363,
+        "Name": "Прохідна"
+      },
+      "EventFilterPassed": true,
+      "FaceMaskDetected": false,
+      "IconToken": 2113,
+      "Issued": "/Date(1628069792000)/",
+      "Message": {
+        "Token": 217,
+        "Name": "Вихід дозволений",
+        "AccessGranted": true,
+        "Code": 9,
+        "Color": 255
+      },
+      "PhotoToken": 2112,
+      "PhotoverificationFiltersPassed": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "Sender": {
+        "Token": 1385,
+        "Name": "1 - вихід"
+      },
+      "Temperature": 0,
+      "User": {
+        "Token": 2105,
+        "Name": "Кузюк Олександр ",
+        "AdditionalFields": [],
+        "EmployeeNumber": "3",
+        "Post": "Адмін"
+      }
+    },
+    {
+      "ModificationStatus": 0,
+      "Token": 10514,
+      "AdditionalFields": [],
+      "CardCode": "3800EC7539",
+      "Department": {
+        "Token": 1618,
+        "Name": "Офіс"
+      },
+      "Device": {
+        "Token": 1363,
+        "Name": "Прохідна"
+      },
+      "EventFilterPassed": true,
+      "FaceMaskDetected": false,
+      "IconToken": 2113,
+      "Issued": "/Date(1628069801000)/",
+      "Message": {
+        "Token": 219,
+        "Name": "Вихід здійснено",
+        "AccessGranted": true,
+        "Code": 99,
+        "Color": 0
+      },
+      "PhotoToken": 2112,
+      "PhotoverificationFiltersPassed": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "Sender": {
+        "Token": 1385,
+        "Name": "1 - вихід"
+      },
+      "Temperature": 0,
+      "User": {
+        "Token": 2105,
+        "Name": "Кузюк Олександр ",
+        "AdditionalFields": [],
+        "EmployeeNumber": "3",
+        "Post": "Адмін"
+      }
+    },
+    {
+      "ModificationStatus": 0,
+      "Token": 10515,
+      "AdditionalFields": [],
+      "CardCode": "33008DFF72",
+      "Department": {
+        "Token": 1618,
+        "Name": "Офіс"
+      },
+      "Device": {
+        "Token": 1363,
+        "Name": "Прохідна"
+      },
+      "EventFilterPassed": true,
+      "FaceMaskDetected": false,
+      "IconToken": 1991,
+      "Issued": "/Date(1628070210000)/",
+      "Message": {
+        "Token": 217,
+        "Name": "Вихід дозволений",
+        "AccessGranted": true,
+        "Code": 9,
+        "Color": 255
+      },
+      "PhotoToken": 1990,
+      "PhotoverificationFiltersPassed": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "Sender": {
+        "Token": 1385,
+        "Name": "1 - вихід"
+      },
+      "Temperature": 0,
+      "User": {
+        "Token": 1982,
+        "Name": "Кузюк Ірина",
+        "AdditionalFields": [],
+        "EmployeeNumber": "1",
+        "Post": "PR"
+      }
+    },
+    {
+      "ModificationStatus": 0,
+      "Token": 10516,
+      "AdditionalFields": [],
+      "CardCode": "33008DFF72",
+      "Department": {
+        "Token": 1618,
+        "Name": "Офіс"
+      },
+      "Device": {
+        "Token": 1363,
+        "Name": "Прохідна"
+      },
+      "EventFilterPassed": true,
+      "FaceMaskDetected": false,
+      "IconToken": 1991,
+      "Issued": "/Date(1628070219000)/",
+      "Message": {
+        "Token": 219,
+        "Name": "Вихід здійснено",
+        "AccessGranted": true,
+        "Code": 99,
+        "Color": 0
+      },
+      "PhotoToken": 1990,
+      "PhotoverificationFiltersPassed": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "Sender": {
+        "Token": 1385,
+        "Name": "1 - вихід"
+      },
+      "Temperature": 0,
+      "User": {
+        "Token": 1982,
+        "Name": "Кузюк Ірина",
+        "AdditionalFields": [],
+        "EmployeeNumber": "1",
+        "Post": "PR"
+      }
+    },
+    {
+      "ModificationStatus": 0,
+      "Token": 10517,
+      "AdditionalFields": [],
+      "CardCode": "3800EC7539",
+      "Department": {
+        "Token": 1618,
+        "Name": "Офіс"
+      },
+      "Device": {
+        "Token": 1363,
+        "Name": "Прохідна"
+      },
+      "EventFilterPassed": true,
+      "FaceMaskDetected": false,
+      "IconToken": 2113,
+      "Issued": "/Date(1628070567000)/",
+      "Message": {
+        "Token": 217,
+        "Name": "Вихід дозволений",
+        "AccessGranted": true,
+        "Code": 9,
+        "Color": 255
+      },
+      "PhotoToken": 2112,
+      "PhotoverificationFiltersPassed": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "Sender": {
+        "Token": 1385,
+        "Name": "1 - вихід"
+      },
+      "Temperature": 0,
+      "User": {
+        "Token": 2105,
+        "Name": "Кузюк Олександр ",
+        "AdditionalFields": [],
+        "EmployeeNumber": "3",
+        "Post": "Адмін"
+      }
+    },
+    {
+      "ModificationStatus": 0,
+      "Token": 10518,
+      "AdditionalFields": [],
+      "CardCode": "3800EC7539",
+      "Department": {
+        "Token": 1618,
+        "Name": "Офіс"
+      },
+      "Device": {
+        "Token": 1363,
+        "Name": "Прохідна"
+      },
+      "EventFilterPassed": true,
+      "FaceMaskDetected": false,
+      "IconToken": 2113,
+      "Issued": "/Date(1628070576000)/",
+      "Message": {
+        "Token": 219,
+        "Name": "Вихід здійснено",
+        "AccessGranted": true,
+        "Code": 99,
+        "Color": 0
+      },
+      "PhotoToken": 2112,
+      "PhotoverificationFiltersPassed": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "Sender": {
+        "Token": 1385,
+        "Name": "1 - вихід"
+      },
+      "Temperature": 0,
+      "User": {
+        "Token": 2105,
+        "Name": "Кузюк Олександр ",
+        "AdditionalFields": [],
+        "EmployeeNumber": "3",
+        "Post": "Адмін"
+      }
+    },
+    {
+      "ModificationStatus": 0,
+      "Token": 10519,
+      "AdditionalFields": [],
+      "CardCode": "3800EE68AB",
+      "Department": {
+        "Token": 2521,
+        "Name": "Цех"
+      },
+      "Device": {
+        "Token": 1363,
+        "Name": "Прохідна"
+      },
+      "EventFilterPassed": true,
+      "FaceMaskDetected": false,
+      "IconToken": 2545,
+      "Issued": "/Date(1628079801000)/",
+      "Message": {
+        "Token": 217,
+        "Name": "Вихід дозволений",
+        "AccessGranted": true,
+        "Code": 9,
+        "Color": 255
+      },
+      "PhotoToken": 2544,
+      "PhotoverificationFiltersPassed": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "Sender": {
+        "Token": 1385,
+        "Name": "1 - вихід"
+      },
+      "Temperature": 0,
+      "User": {
+        "Token": 2540,
+        "Name": "Голиборода Олег",
+        "AdditionalFields": [],
+        "EmployeeNumber": "17",
+        "Post": "Зварювальник"
+      }
+    },
+    {
+      "ModificationStatus": 0,
+      "Token": 10520,
+      "AdditionalFields": [],
+      "CardCode": "3800EE68AB",
+      "Department": {
+        "Token": 2521,
+        "Name": "Цех"
+      },
+      "Device": {
+        "Token": 1363,
+        "Name": "Прохідна"
+      },
+      "EventFilterPassed": true,
+      "FaceMaskDetected": false,
+      "IconToken": 2545,
+      "Issued": "/Date(1628079810000)/",
+      "Message": {
+        "Token": 219,
+        "Name": "Вихід здійснено",
+        "AccessGranted": true,
+        "Code": 99,
+        "Color": 0
+      },
+      "PhotoToken": 2544,
+      "PhotoverificationFiltersPassed": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "Sender": {
+        "Token": 1385,
+        "Name": "1 - вихід"
+      },
+      "Temperature": 0,
+      "User": {
+        "Token": 2540,
+        "Name": "Голиборода Олег",
+        "AdditionalFields": [],
+        "EmployeeNumber": "17",
+        "Post": "Зварювальник"
+      }
+    },
+    {
+      "ModificationStatus": 0,
+      "Token": 10521,
+      "AdditionalFields": [],
+      "CardCode": "3800EE68AB",
+      "Department": {
+        "Token": 2521,
+        "Name": "Цех"
+      },
+      "Device": {
+        "Token": 1363,
+        "Name": "Прохідна"
+      },
+      "EventFilterPassed": true,
+      "FaceMaskDetected": false,
+      "IconToken": 2545,
+      "Issued": "/Date(1628079877000)/",
+      "Message": {
+        "Token": 216,
+        "Name": "Вхід дозволений",
+        "AccessGranted": true,
+        "Code": 8,
+        "Color": 255
+      },
+      "PhotoToken": 2544,
+      "PhotoverificationFiltersPassed": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "Sender": {
+        "Token": 1384,
+        "Name": "1 - вхід"
+      },
+      "Temperature": 0,
+      "User": {
+        "Token": 2540,
+        "Name": "Голиборода Олег",
+        "AdditionalFields": [],
+        "EmployeeNumber": "17",
+        "Post": "Зварювальник"
+      }
+    },
+    {
+      "ModificationStatus": 0,
+      "Token": 10522,
+      "AdditionalFields": [],
+      "CardCode": "3800EE68AB",
+      "Department": {
+        "Token": 2521,
+        "Name": "Цех"
+      },
+      "Device": {
+        "Token": 1363,
+        "Name": "Прохідна"
+      },
+      "EventFilterPassed": true,
+      "FaceMaskDetected": false,
+      "IconToken": 2545,
+      "Issued": "/Date(1628079886000)/",
+      "Message": {
+        "Token": 218,
+        "Name": "Вхід здійснено",
+        "AccessGranted": true,
+        "Code": 98,
+        "Color": 0
+      },
+      "PhotoToken": 2544,
+      "PhotoverificationFiltersPassed": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "Sender": {
+        "Token": 1384,
+        "Name": "1 - вхід"
+      },
+      "Temperature": 0,
+      "User": {
+        "Token": 2540,
+        "Name": "Голиборода Олег",
+        "AdditionalFields": [],
+        "EmployeeNumber": "17",
+        "Post": "Зварювальник"
+      }
+    }
+  ],
+  "EventColumns": [
+    "Col_DateTime",
+    "Col_Employee",
+    "Col_Place",
+    "Col_Event",
+    "Col_Identifier",
+    "Col_Department",
+    "Col_Post",
+    "Col_EmployeeNumber"
+  ],
+  "Language": "",
+  "NextToken": 10523,
+  "PhotoverificationColumnCount": 1,
+  "PhotoverificationColumns": [
+    "Col_DateTime",
+    "Col_Employee",
+    "Col_Place",
+    "Col_Event",
+    "Col_Identifier",
+    "Col_Department",
+    "Col_Post",
+    "Col_EmployeeNumber"
+  ],
+  "PhotoverificationRowCount": 1,
+  "UserSID": "22386711703641666"
+}
