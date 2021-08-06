@@ -1,0 +1,382 @@
+[
+  {
+    "name": {
+      "first": "Олександр",
+      "second": "Головко",
+      "patronyme": ""
+    },
+    "cardCode": "32004894CC",
+    "uProx": {
+      "todayWorkTime": 0,
+      "lastEvent": {
+        "date": "2021-08-06T12:47:48.466Z",
+        "direction": 0
+      },
+      "monthEventList": []
+    },
+    "telegram": {
+      "chatId": 0,
+      "userName": ""
+    }
+  },
+  {
+    "name": {
+      "first": "Олег",
+      "second": "Лонський",
+      "patronyme": ""
+    },
+    "cardCode": "3200204A2B",
+    "uProx": {
+      "todayWorkTime": 0,
+      "lastEvent": {
+        "date": "2021-08-06T12:47:48.466Z",
+        "direction": 0
+      },
+      "monthEventList": []
+    },
+    "telegram": {
+      "chatId": 0,
+      "userName": ""
+    }
+  },
+  {
+    "name": {
+      "first": "Володимир",
+      "second": "Максименко",
+      "patronyme": ""
+    },
+    "cardCode": "33008ADF00",
+    "uProx": {
+      "todayWorkTime": 0,
+      "lastEvent": {
+        "date": "2021-08-06T12:47:48.466Z",
+        "direction": 0
+      },
+      "monthEventList": []
+    },
+    "telegram": {
+      "chatId": 0,
+      "userName": ""
+    }
+  },
+  {
+    "name": {
+      "first": "Миколай",
+      "second": "Щербина",
+      "patronyme": ""
+    },
+    "cardCode": "3200485719",
+    "uProx": {
+      "todayWorkTime": 0,
+      "lastEvent": {
+        "date": "2021-08-06T12:47:48.466Z",
+        "direction": 0
+      },
+      "monthEventList": []
+    },
+    "telegram": {
+      "chatId": 0,
+      "userName": ""
+    }
+  },
+  {
+    "name": {
+      "first": "Сергій",
+      "second": "Трегубенко",
+      "patronyme": ""
+    },
+    "cardCode": "320048BE14",
+    "uProx": {
+      "todayWorkTime": 0,
+      "lastEvent": {
+        "date": "2021-08-06T12:47:48.466Z",
+        "direction": 0
+      },
+      "monthEventList": []
+    },
+    "telegram": {
+      "chatId": 0,
+      "userName": ""
+    }
+  },
+  {
+    "name": {
+      "first": "Володимир",
+      "second": "Зінченко",
+      "patronyme": ""
+    },
+    "cardCode": "3800E49C36",
+    "uProx": {
+      "todayWorkTime": 0,
+      "lastEvent": {
+        "date": "2021-08-06T12:47:48.466Z",
+        "direction": 0
+      },
+      "monthEventList": []
+    },
+    "telegram": {
+      "chatId": 0,
+      "userName": ""
+    }
+  },
+  {
+    "name": {
+      "first": "Віктор",
+      "second": "Шимко",
+      "patronyme": ""
+    },
+    "cardCode": "32002017A0",
+    "uProx": {
+      "todayWorkTime": 0,
+      "lastEvent": {
+        "date": "2021-08-06T12:47:48.466Z",
+        "direction": 0
+      },
+      "monthEventList": []
+    },
+    "telegram": {
+      "chatId": 0,
+      "userName": ""
+    }
+  },
+  {
+    "name": {
+      "first": "Станіслав",
+      "second": "Яхно",
+      "patronyme": ""
+    },
+    "cardCode": "3300C861A5",
+    "uProx": {
+      "todayWorkTime": 0,
+      "lastEvent": {
+        "date": "2021-08-06T12:47:48.466Z",
+        "direction": 0
+      },
+      "monthEventList": []
+    },
+    "telegram": {
+      "chatId": 0,
+      "userName": ""
+    }
+  },
+  {
+    "name": {
+      "first": "Татьяна",
+      "second": "Горнакова",
+      "patronyme": ""
+    },
+    "cardCode": "3800EC9B7C",
+    "uProx": {
+      "todayWorkTime": 0,
+      "lastEvent": {
+        "date": "2021-08-06T12:47:48.466Z",
+        "direction": 0
+      },
+      "monthEventList": []
+    },
+    "telegram": {
+      "chatId": 0,
+      "userName": ""
+    }
+  },
+  {
+    "name": {
+      "first": "Віталій",
+      "second": "Якименко",
+      "patronyme": ""
+    },
+    "cardCode": "3800E528E0",
+    "uProx": {
+      "todayWorkTime": 0,
+      "lastEvent": {
+        "date": "2021-08-06T12:47:48.466Z",
+        "direction": 0
+      },
+      "monthEventList": []
+    },
+    "telegram": {
+      "chatId": 0,
+      "userName": ""
+    }
+  },
+  {
+    "name": {
+      "first": "Вероніка",
+      "second": "Голиборода",
+      "patronyme": ""
+    },
+    "cardCode": "3800EE5017",
+    "uProx": {
+      "todayWorkTime": 0,
+      "lastEvent": {
+        "date": "2021-08-06T12:47:48.467Z",
+        "direction": 0
+      },
+      "monthEventList": []
+    },
+    "telegram": {
+      "chatId": 0,
+      "userName": ""
+    }
+  },
+  {
+    "name": {
+      "first": "Данило",
+      "second": "Кузюк",
+      "patronyme": ""
+    },
+    "cardCode": "2A99B3B80B",
+    "uProx": {
+      "todayWorkTime": 0,
+      "lastEvent": {
+        "date": "2021-08-06T12:47:48.467Z",
+        "direction": 0
+      },
+      "monthEventList": []
+    },
+    "telegram": {
+      "chatId": 0,
+      "userName": ""
+    }
+  },
+  {
+    "name": {
+      "first": "Ольга",
+      "second": "Якименко",
+      "patronyme": ""
+    },
+    "cardCode": "32004929C5",
+    "uProx": {
+      "todayWorkTime": 0,
+      "lastEvent": {
+        "date": "2021-08-06T12:47:48.467Z",
+        "direction": 0
+      },
+      "monthEventList": []
+    },
+    "telegram": {
+      "chatId": 0,
+      "userName": ""
+    }
+  },
+  {
+    "name": {
+      "first": "Олексій",
+      "second": "Сілаков",
+      "patronyme": ""
+    },
+    "cardCode": "330088FD61",
+    "uProx": {
+      "todayWorkTime": 0,
+      "lastEvent": {
+        "date": "2021-08-06T12:47:48.467Z",
+        "direction": 0
+      },
+      "monthEventList": []
+    },
+    "telegram": {
+      "chatId": 0,
+      "userName": ""
+    }
+  },
+  {
+    "name": {
+      "first": "Наталія",
+      "second": "Пушкарук",
+      "patronyme": ""
+    },
+    "cardCode": "3300C89440",
+    "uProx": {
+      "todayWorkTime": 0,
+      "lastEvent": {
+        "date": "2021-08-06T12:47:48.467Z",
+        "direction": 0
+      },
+      "monthEventList": []
+    },
+    "telegram": {
+      "chatId": 0,
+      "userName": ""
+    }
+  },
+  {
+    "name": {
+      "first": "Олег",
+      "second": "Голиборода",
+      "patronyme": ""
+    },
+    "cardCode": "3800EE68AB",
+    "uProx": {
+      "todayWorkTime": 0,
+      "lastEvent": {
+        "date": "2021-08-06T12:47:48.467Z",
+        "direction": 0
+      },
+      "monthEventList": []
+    },
+    "telegram": {
+      "chatId": 0,
+      "userName": ""
+    }
+  },
+  {
+    "name": {
+      "first": "Вадим",
+      "second": "Голик",
+      "patronyme": ""
+    },
+    "cardCode": "2A99B3B80F",
+    "uProx": {
+      "todayWorkTime": 0,
+      "lastEvent": {
+        "date": "2021-08-06T12:47:48.467Z",
+        "direction": 0
+      },
+      "monthEventList": []
+    },
+    "telegram": {
+      "chatId": 0,
+      "userName": ""
+    }
+  },
+  {
+    "name": {
+      "first": "Ірина",
+      "second": "Кузюк",
+      "patronyme": ""
+    },
+    "cardCode": "33008DFF72",
+    "uProx": {
+      "todayWorkTime": 0,
+      "lastEvent": {
+        "date": "2021-08-06T12:47:48.467Z",
+        "direction": 0
+      },
+      "monthEventList": []
+    },
+    "telegram": {
+      "chatId": 0,
+      "userName": ""
+    }
+  },
+  {
+    "name": {
+      "first": "Олександр",
+      "second": "Кузюк",
+      "patronyme": ""
+    },
+    "cardCode": "3800EC7539",
+    "uProx": {
+      "todayWorkTime": 0,
+      "lastEvent": {
+        "date": "2021-08-06T12:47:48.467Z",
+        "direction": 0
+      },
+      "monthEventList": []
+    },
+    "telegram": {
+      "chatId": 0,
+      "userName": ""
+    }
+  }
+]

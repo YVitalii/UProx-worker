@@ -1,4 +1,4 @@
-const {open}=require("fs/promises")
+const {open}=require("fs/promises");
 const md5 = require('md5');
 const config = require('../uProx-config.js');
 const axios = require('axios');
@@ -153,7 +153,8 @@ function parseEventList( list ) {
       token:item.Token, //адрес события в UproxToken
       date:new Date(parseInt(item.Issued.slice(6,-2))),// item.Issued="/Date(1628052431000)/"
       userCard:item.CardCode, //карта пользователя
-      direction: item.Sender.Token, // parseDirection(направление прохода вход/выход
+      direction: item.Sender.Token, // parseDirection (направление прохода вход/выход
+      directionTitle: item.Sender.Name,
       userName:item.User.Name, // имя пользователя
     }
     trace ? log("i",logN,"Record"+i+"=",record) : null;
@@ -161,6 +162,12 @@ function parseEventList( list ) {
   }
   return result
 } // parseEventList
+
+async function applyEvent(e){
+  // getUser
+  let err="";
+
+}
 
 (async () => {
   try {
@@ -177,9 +184,7 @@ function parseEventList( list ) {
   } finally {
     await logout();
   }
-
-
-})();
+}) ();
 
 if (! module.parent) {
   (async () => {

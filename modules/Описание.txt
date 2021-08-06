@@ -1,25 +1,34 @@
 users= {};
 users[userCard]={
-	userName:
-	, 
-	, lastEvent :{
-					 date:
-					,type:				
+	userName: //=events[i].userName
+	,userCard: //=events[i].userCard
+	,workTime: // Number
+	,lastEvent :{
+					 date: // =events[i].date
+					,direction:	//=events[i].direction 					
 				 }
+	,eventsList: array of events[i]
+	,telegram:{
+		chatID: // код чата 
+		userName: // имя пользователя в чате
+	},
+	security: // true/false - охранник? Они работают сутками, поэтому для них время считать с прошлого дня
 }
-Обработанный ответ:
+
+------------------- Обработанный ответ: ---------------------------
 events=[ 
 	{
 		token:  // = Token; адрес события в UproxToken
 		date: // = Issued время события
 		userCard: //=CardCode карта пользователя
-		direction: // = if Sender.Token=1384 то тип 1; if Sender.Token=1385 то тип 0 - выход
+		direction: // = if Sender.Token=config.enter то тип: вход; if Sender.Token=config.exit то тип: выход
+		directionTitle: // = Sender.Name
 		userName: //=User.Name имя пользователя
 	},
 	....
 ];
------------------------------------
-Ответ сервера:
+----------------------------------- Ответ сервера: --------------
+
  events.data={
 		 Event: 
 			[... {
