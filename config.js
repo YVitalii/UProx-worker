@@ -9,5 +9,8 @@ let config={
  "otputDirection" : 1385, // код выходной двери
 
 }
-
+config["db"]={
+  url:"mongodb://express:Danya@localhost:27017/workersDB?authSource=WorkersDB&readPreference=primary&appname=Express&ssl=false",
+  options:{useNewUrlParser: true, useUnifiedTopology:true ,useFindAndModify:false}
+}
 module.exports=config;

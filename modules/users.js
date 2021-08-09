@@ -54,5 +54,5 @@ var UserSchema= new Schema({
 });
 
 UserShema.statics.findByCard = function (card) {
-  
+
 }

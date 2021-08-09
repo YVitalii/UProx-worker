@@ -1,6 +1,6 @@
 const {open}=require("fs/promises");
 const md5 = require('md5');
-const config = require('../uProx-config.js');
+const config = require('../сonfig.js');
 const axios = require('axios');
 const sygnalR= require ("@microsoft/signalr");
 const input=config.inputDirection;
